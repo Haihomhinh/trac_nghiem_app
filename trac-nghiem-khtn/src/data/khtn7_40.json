@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "Một thanh nam châm bị gãy làm hai thì:",
+    "options": ["Một nửa là cực Bắc, một nửa là cực Nam.", "Cả hai nửa đều mất từ tính.", "Mỗi nửa đều là một nam châm có hai cực Bắc - Nam.", "Mỗi nửa đều là một nam châm và cực của mỗi nửa ở chỗ đứt gãy cùng tên."],
+    "correctAnswer": 2
+  },
+  {
+    "id": 2,
+    "question": "Trao đổi chất và chuyển hoá năng lượng có vai trò quan trọng đối với:",
+    "options": ["Sự chuyển hoá của sinh vật.", "Sự biến đổi các chất.", "Sự trao đổi năng lượng.", "Sự sống của sinh vật."],
+    "correctAnswer": 3
+  },
+  {
+    "id": 3,
+    "question": "Các yếu tố chủ yếu ngoài môi trường ảnh hưởng đến quang hợp là:",
+    "options": ["Nước, hàm lượng khí carbon dioxide, hàm lượng khí oxygen.", "Nước, hàm lượng khí carbon dioxide, ánh sáng, nhiệt độ.", "Nước, hàm lượng khí oxygen, ánh sáng.", "Nước, hàm lượng khí oxygen, nhiệt độ."],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "Ở thực vật có hai loại mô phân sinh là:",
+    "options": ["Mô phân sinh đỉnh và mô phân sinh bên.", "Mô phân sinh cành và mô phân sinh rễ.", "Mô phân sinh lá và mô phân sinh thân.", "Mô phân sinh ngọn và mô phân sinh rễ."],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Loại mô giúp cho thân dài ra là:",
+    "options": ["Mô phân sinh ngọn.", "Mô phân sinh rễ.", "Mô phân sinh lá.", "Mô phân sinh thân."],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "Sinh sản là:",
+    "options": ["Một trong những đặc trưng cơ bản của cơ thể sống.", "Quá trình không thể thiếu của cơ thể sống.", "Đặc trưng của vật không sống.", "Đặc trưng cơ bản của động vật."],
+    "correctAnswer": 0
+  },
+  {
+    "id": 7,
+    "question": "Sinh sản hữu tính ở sinh vật là quá trình tạo ra cơ thể mới từ:",
+    "options": ["Một phần của cơ thể mẹ hoặc bố.", "Sự kết hợp giữa cơ thể mẹ và cơ thể bố.", "Hợp nhất giữa giao tử đực và giao tử cái tạo thành hợp tử, hợp tử phát triển thành cơ thể mới.", "Tạo ra cơ thể mới từ cơ quan sinh dưỡng của cơ thể mẹ."],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "question": "Trong điều khiển sinh sản ở động vật, biện pháp nào thúc đẩy trứng chín nhanh và chín hàng loạt?",
+    "options": ["Sử dụng hormone hoặc thay đổi yếu tố môi trường.", "Nuôi cấy phôi, thụ tinh nhân tạo.", "Nuôi cấy phôi, thay đổi các yếu tố môi trường.", "Sử dụng hormone."],
+    "correctAnswer": 3
+  },
+  {
+    "id": 9,
+    "question": "Mạt sắt đặt ở chỗ nào trên thanh nam châm thì bị hút mạnh nhất?",
+    "options": ["Ở phần giữa của thanh.", "Chỉ ở đầu cực Bắc của thanh nam châm.", "Chỉ ở đầu cực Nam của thanh nam châm.", "Ở cả hai đầu cực Bắc và cực Nam của thanh nam châm."],
+    "correctAnswer": 3
+  },
+  {
+    "id": 10,
+    "question": "Sản phẩm của quang hợp là:",
+    "options": ["Nước, carbon dioxide.", "Ánh sáng, diệp lục.", "Oxygen, glucose.", "Glucose, nước."],
+    "correctAnswer": 2
+  },
+  {
+    "id": 11,
+    "question": "Trao đổi khí ở sinh vật là quá trình:",
+    "options": ["Lấy khí O2 từ môi trường vào cơ thể và thải khí CO2 từ cơ thể ra môi trường.", "Lấy khí CO2 từ môi trường vào cơ thể và thải khí O2 từ cơ thể ra môi trường.", "Lấy khí O2 hoặc CO2 từ môi trường vào cơ thể, đồng thời thải khí CO2 hoặc O2 từ cơ thể ra môi trường.", "Lấy khí CO2 từ môi trường vào cơ thể, đồng thời thải khí O2 và CO2 ra ngoài môi trường."],
+    "correctAnswer": 0
+  },
+  {
+    "id": 12,
+    "question": "Thứ tự các bước thí nghiệm đúng để chứng minh tính hướng nước của cây là:",
+    "options": ["1, 2, 3, 4.", "3, 1, 2, 4.", "4, 2, 3, 1.", "3, 2, 1, 4."],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "Khi nói về mối quan hệ giữa sinh trưởng và phát triển đời sống sinh vật, có bao nhiêu phát biểu đúng?",
+    "options": ["6", "5", "4", "3"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "Nhân tố quan trọng quyết định sự sinh trưởng và phát triển của động vật là:",
+    "options": ["Yếu tố di truyền", "Hormone", "Thức ăn", "Nhiệt độ và ánh sáng"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "question": "Nhóm thực vật dưới đây sinh sản bằng thân rễ?",
+    "options": ["Rau má, dâu tây.", "Khoai lang, khoai tây.", "Gừng, củ gấu.", "Lá bỏng, hoa đá."],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "question": "Sinh sản hữu tính khác sinh sản vô tính là:",
+    "options": ["Có sự kết hợp giữa giao tử đực và giao tử cái tạo thành hợp tử.", "Không có sự kết hợp giữa giao tử đực và giao tử cái tạo thành hợp tử.", "Tạo cơ thể mới từ các bộ phận khác nhau của cơ thể.", "Cơ thể mẹ sinh ra cơ thể con từ tế bào giao tử cái."],
+    "correctAnswer": 0
+  },
+  {
+    "id": 17,
+    "question": "Câu phát biểu nào chưa chính xác khi nói về Cực Bắc của nam châm vĩnh cửu là:",
+    "options": ["Cực luôn hướng về phía Bắc địa lý.", "Cực được kí hiệu bằng chữ S.", "Cực được kí hiệu bằng chữ N.", "Nơi hút được nhiều mạt sắt."],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "Đường sức từ là những đường cong được vẽ theo quy ước nào?",
+    "options": ["Có chiều từ cực Nam đến cực Bắc bên ngoài thanh nam châm.", "Có độ mau thưa tùy ý.", "Bắt đầu từ cực này và kết thúc ở cực kia của nam châm.", "Có chiều từ cực Bắc tới cực Nam bên ngoài thanh nam châm."],
+    "correctAnswer": 3
+  },
+  {
+    "id": 19,
+    "question": "Quá trình nào dưới đây là quá trình đồng hoá?",
+    "options": ["Tích luỹ năng lượng.", "Giải phóng năng lượng.", "Tổng hợp chất hữu cơ đơn giản từ những chất hữu cơ phức tạp.", "Phân giải các chất hữu cơ thành các chất vô cơ đơn giản."],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "Đồng hoá và dị hoá là hai quá trình như thế nào?",
+    "options": ["Đều xảy ra sự tích lũy năng lượng.", "Đều xảy ra sự giải phóng năng lượng.", "Đối lập nhau.", "Mâu thuẫn nhau."],
+    "correctAnswer": 2
+  },
+  {
+    "id": 21,
+    "question": "Sản phẩm của quá trình dị hóa là:",
+    "options": ["Nước.", "Protein.", "Xenlulozo.", "Tinh bột."],
+    "correctAnswer": 0
+  },
+  {
+    "id": 22,
+    "question": "Các cách để thành lập 1 phản xạ có điều kiện là:",
+    "options": ["1, 2, 3.", "1, 3, 2.", "3, 1, 2.", "2, 1, 3."],
+    "correctAnswer": 2
+  },
+  {
+    "id": 23,
+    "question": "Cảm ứng của động vật là:",
+    "options": ["Khả năng cơ thể động vật phản ứng lại các kích thích của một số tác nhân môi trường sống.", "Khả năng cơ thể động vật phản ứng lại các kích thích của môi trường (bên trong và bên ngoài) để tồn tại và phát triển.", "Khả năng cơ thể động vật phản ứng lại các kích thích của môi trường sống, đảm bảo cho cơ thể tồn tại.", "Khả năng cơ thể động vật phản ứng lại các kích thích định hướng của môi trường."],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "Biến thái là gì?",
+    "options": ["Sự thay đổi đột ngột về hình thái, cấu tạo và sinh lý sau khi sinh ra.", "Sự thay đổi từ từ về hình thái, cấu tạo và đột ngột về sinh lý sau khi sinh ra.", "Sự thay đổi đột ngột về hình thái, cấu tạo và sinh lý của động vật sau khi sinh ra.", "Sự thay đổi từ từ về hình thái, cấu tạo và về sinh lý của động vật sau khi sinh ra hoặc nở ra từ trứng."],
+    "correctAnswer": 3
+  },
+  {
+    "id": 25,
+    "question": "Sinh trưởng của cơ thể động vật là quá trình tăng kích thước của:",
+    "options": ["Các hệ cơ quan trong cơ thể", "Cơ thể do tăng kích thước và số lượng tế bào", "Các mô trong cơ thể", "Các cơ quan trong cơ thể"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 26,
+    "question": "Sinh sản ở sinh vật là quá trình:",
+    "options": ["Nảy chồi.", "Hình thành cá thể mới.", "Hình thành rễ.", "Gieo hạt."],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "question": "Hình thức sinh sản nào sau đây là sinh sản vô tính?",
+    "options": ["Đẻ trứng.", "Đẻ con.", "Phân đôi cơ thể.", "Đẻ trứng và đẻ con."],
+    "correctAnswer": 2
+  },
+  {
+    "id": 28,
+    "question": "Vì sao nhân giống cam, chanh, bưởi... người ta thường chiết cành mà không sử dụng giâm cành?",
+    "options": ["Thời gian ra rễ của các cây trên rất chậm.", "Những cây đó có giá trị kinh tế cao.", "Cành của các cây đó quá to.", "Khả năng vận chuyển chất dinh dưỡng kém."],
+    "correctAnswer": 0
+  },
+  {
+    "id": 29,
+    "question": "Thứ tự các giai đoạn phát triển đúng của vòng đời ếch là:",
+    "options": ["Ếch trưởng thành, trứng, nòng nọc, ếch con.", "Nòng nọc, ếch trưởng thành, trứng, ếch con.", "Trứng, ếch con, nòng nọc, ếch trưởng thành.", "Trứng, nòng nọc, ếch con, ếch trưởng thành."],
+    "correctAnswer": 3
+  },
+  {
+    "id": 30,
+    "question": "Chọn đáp án đúng khi nói về nhu cầu ánh sáng của cây ưa sáng và cây ưa bóng.",
+    "options": ["Cây ưa sáng không cần nhiều ánh sáng mạnh.", "Cây ưa sáng cần nhiều ánh sáng mạnh, cây ưa bóng không cần nhiều ánh sáng.", "Cây ưa sáng cần ít ánh sáng.", "Cây ưa bóng cần ánh sáng mạnh."],
+    "correctAnswer": 1
+  },
+  {
+    "id": 31,
+    "question": "Dụng cụ dùng để xác định phương hướng trong từ trường Trái Đất là:",
+    "options": ["Nhiệt kế.", "Ampe kế.", "La bàn.", "Tốc kế."],
+    "correctAnswer": 2
+  },
+  {
+    "id": 32,
+    "question": "Nguyên liệu đầu vào của quá trình hô hấp tế bào bao gồm:",
+    "options": ["Oxygen và Glucose.", "Carbon dioxide và Nước.", "Oxygen và Nước.", "Glucose và Carbon dioxide."],
+    "correctAnswer": 0
+  },
+  {
+    "id": 33,
+    "question": "Tại sao cần phơi khô hạt trước khi cho vào kho bảo quản?",
+    "options": ["Để hạt trông đẹp hơn.", "Để giảm cường độ hô hấp tế bào, giúp hạt sống tiềm sinh lâu hơn.", "Để hạt nhanh chín hơn.", "Để tăng cường độ hô hấp tế bào."],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "Trong cơ thể người, hệ cơ quan có vai trò vận chuyển nước và chất dinh dưỡng đến các tế bào là:",
+    "options": ["Hệ hô hấp.", "Hệ tuần hoàn.", "Hệ bài tiết.", "Hệ thần kinh."],
+    "correctAnswer": 1
+  },
+  {
+    "id": 35,
+    "question": "Mạch gỗ trong thân cây có chức năng chính là:",
+    "options": ["Vận chuyển chất hữu cơ từ lá xuống rễ.", "Vận chuyển nước và muối khoáng từ rễ lên lá.", "Thoát hơi nước cho cây.", "Hấp thụ ánh sáng mặt trời."],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "Phân tử nước có tính phân cực là do:",
+    "options": ["Nguyên tử Oxygen hút cặp electron dùng chung mạnh hơn nguyên tử Hydrogen.", "Nguyên tử Hydrogen hút cặp electron mạnh hơn Oxygen.", "Nước có khối lượng riêng lớn.", "Nước có thể tồn tại ở ba trạng thái."],
+    "correctAnswer": 0
+  },
+  {
+    "id": 37,
+    "question": "Nhóm thực phẩm nào sau đây cung cấp chủ yếu chất béo (lipid) cho cơ thể?",
+    "options": ["Cơm, bánh mì, khoai tây.", "Thịt nạc, trứng, sữa.", "Mỡ động vật, dầu thực vật, lạc.", "Rau xanh, trái cây."],
+    "correctAnswer": 2
+  },
+  {
+    "id": 38,
+    "question": "Cơ quan chủ yếu thực hiện chức năng thoát hơi nước ở thực vật là:",
+    "options": ["Rễ cây.", "Thân cây.", "Lá cây.", "Hoa."],
+    "correctAnswer": 2
+  },
+  {
+    "id": 39,
+    "question": "Để bảo vệ sức khỏe hệ tiêu hóa, chúng ta nên thực hiện biện pháp nào?",
+    "options": ["Ăn thật nhanh.", "Vừa ăn vừa xem điện thoại.", "Ăn chín, uống sôi và nhai kỹ.", "Ăn nhiều đồ cay nóng."],
+    "correctAnswer": 2
+  },
+  {
+    "id": 40,
+    "question": "Phát biểu nào sau đây chứng minh Trái Đất có từ trường?",
+    "options": ["Trái Đất có bầu khí quyển.", "Kim la bàn luôn tự do định hướng theo trục Bắc - Nam địa lý.", "Trái Đất quay quanh Mặt Trời.", "Mọi vật đều rơi xuống đất do trọng lực."],
+    "correctAnswer": 1
+  }
+]
