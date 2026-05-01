@@ -1,0 +1,882 @@
+[
+  {
+    "id": 1,
+    "question": "Vùng không gian bao quanh một nam châm có tính chất gì?",
+    "options": [
+      "Hút các vật bằng nhựa.",
+      "Tác dụng lực từ lên vật liệu có tính chất từ đặt trong nó.",
+      "Đẩy các vật bằng sắt.",
+      "Tác dụng lực điện lên các điện tích."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Vật nào sau đây xung quanh nó có từ trường?",
+    "options": [
+      "Dây nhựa.",
+      "Dây đồng mang dòng điện.",
+      "Cục tẩy.",
+      "Mảnh thủy tinh."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Lực do từ trường tác dụng lên vật liệu từ gọi là gì?",
+    "options": [
+      "Lực hấp dẫn.",
+      "Lực ma sát.",
+      "Lực từ.",
+      "Lực điện."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "Để nhận biết từ trường, người ta thường dùng dụng cụ nào?",
+    "options": [
+      "Nhiệt kế.",
+      "Vôn kế.",
+      "Kim nam châm.",
+      "Ampe kế."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "question": "Từ phổ là gì?",
+    "options": [
+      "Hình ảnh trực quan của từ trường.",
+      "Vùng không gian quanh nam châm.",
+      "Lực đẩy của nam châm.",
+      "Lực hút của nam châm."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 6,
+    "question": "Người ta thường tạo ra từ phổ bằng vật liệu nào sau đây?",
+    "options": [
+      "Mạt đồng.",
+      "Mạt nhôm.",
+      "Mạt sắt.",
+      "Bột giấy."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "Nơi nào trên nam châm có từ trường mạnh nhất?",
+    "options": [
+      "Ở giữa thanh nam châm.",
+      "Ở hai từ cực.",
+      "Xung quanh nam châm.",
+      "Mọi nơi đều bằng nhau."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Hình ảnh các đường mạt sắt sắp xếp xung quanh nam châm cho ta biết điều gì?",
+    "options": [
+      "Khối lượng của nam châm.",
+      "Từ phổ của từ trường.",
+      "Nhiệt độ của nam châm.",
+      "Thể tích của nam châm."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Các đường sức từ ở bên ngoài thanh nam châm có chiều như thế nào?",
+    "options": [
+      "Đi ra từ cực Nam, đi vào cực Bắc.",
+      "Đi ra từ cực Bắc, đi vào cực Nam.",
+      "Cùng chiều kim đồng hồ.",
+      "Ngược chiều kim đồng hồ."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "Hai cực cùng tên của hai nam châm khi đặt gần nhau sẽ có hiện tượng gì?",
+    "options": [
+      "Hút nhau.",
+      "Đẩy nhau.",
+      "Không có hiện tượng gì.",
+      "Vừa hút vừa đẩy."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "Hiện tượng nào sau đây chứng tỏ Trái Đất có từ trường?",
+    "options": [
+      "Trái Đất quay quanh Mặt Trời.",
+      "Kim nam châm tự do luôn chỉ hướng Bắc - Nam.",
+      "Ngày và đêm luân phiên.",
+      "Các mùa trong năm."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "Cực Bắc địa từ của Trái Đất nằm ở vị trí nào so với cực địa lý?",
+    "options": [
+      "Trùng với cực Bắc địa lý.",
+      "Gần cực Nam địa lý.",
+      "Trùng với cực Nam địa lý.",
+      "Gần cực Bắc địa lý."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "Dụng cụ nào sau đây ứng dụng từ trường Trái Đất để xác định phương hướng?",
+    "options": [
+      "Nhiệt kế.",
+      "Kính lúp.",
+      "La bàn.",
+      "Đồng hồ."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "question": "Bộ phận quan trọng nhất của la bàn là gì?",
+    "options": [
+      "Vỏ la bàn.",
+      "Mặt số.",
+      "Kim nam châm.",
+      "Chốt kim."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 15,
+    "question": "Khi la bàn để yên, cực Bắc của kim la bàn chỉ về hướng nào của Trái Đất?",
+    "options": [
+      "Hướng Đông.",
+      "Hướng Tây.",
+      "Hướng Nam địa lý.",
+      "Hướng Bắc địa lý."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 16,
+    "question": "Để sử dụng la bàn xác định phương hướng, ta cần đặt la bàn như thế nào?",
+    "options": [
+      "Đặt nghiêng.",
+      "Đặt thẳng đứng.",
+      "Đặt trên mặt phẳng nằm ngang.",
+      "Cầm trên tay đung đưa."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 17,
+    "question": "Vì sao không nên đặt la bàn gần các vật bằng sắt, thép khi đo hướng?",
+    "options": [
+      "Vì làm la bàn bị gỉ.",
+      "Vì từ trường của vật bằng sắt thép làm kim la bàn lệch hướng.",
+      "Vì la bàn sẽ bị hút chặt vào vật đó.",
+      "Vì làm mặt số bị mờ."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "Từ trường Trái Đất có vai trò quan trọng nào đối với sinh vật?",
+    "options": [
+      "Tạo ra ánh sáng.",
+      "Bảo vệ sinh vật khỏi bức xạ vũ trụ nguy hiểm.",
+      "Giữ cho Trái Đất quay đều.",
+      "Cung cấp nhiệt năng."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "Loài động vật nào sau đây có khả năng cảm nhận từ trường Trái Đất để di cư?",
+    "options": [
+      "Chim bồ câu.",
+      "Chó.",
+      "Mèo.",
+      "Khỉ."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "Kí hiệu N trên la bàn chỉ hướng nào?",
+    "options": [
+      "Nam (South).",
+      "Bắc (North).",
+      "Đông (East).",
+      "Tây (West)."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 21,
+    "question": "Bào quan nào trong tế bào lá cây thực hiện chức năng quang hợp?",
+    "options": [
+      "Ti thể.",
+      "Lục lạp.",
+      "Không bào.",
+      "Nhân tế bào."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "Chất nào trong lục lạp giúp lá cây hấp thụ năng lượng ánh sáng?",
+    "options": [
+      "Diệp lục.",
+      "Carotene.",
+      "Nước.",
+      "Carbon dioxide."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 23,
+    "question": "Sản phẩm của quá trình quang hợp là gì?",
+    "options": [
+      "Nước và oxygen.",
+      "Nước và carbon dioxide.",
+      "Chất hữu cơ và carbon dioxide.",
+      "Chất hữu cơ và oxygen."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 24,
+    "question": "Quá trình quang hợp cần cung cấp nguyên liệu nào từ môi trường?",
+    "options": [
+      "Nước và oxygen.",
+      "Nước và carbon dioxide.",
+      "Oxygen và chất hữu cơ.",
+      "Nước và chất khoáng."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "Đặc điểm nào của phiến lá giúp nó nhận được nhiều ánh sáng?",
+    "options": [
+      "Dày và hẹp.",
+      "Mỏng và hẹp.",
+      "Dạng bản dẹt và rộng.",
+      "Có màu xanh."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 26,
+    "question": "Khí khổng trên lá có vai trò gì trong quang hợp?",
+    "options": [
+      "Hấp thụ ánh sáng.",
+      "Vận chuyển nước.",
+      "Trao đổi khí carbon dioxide và oxygen.",
+      "Tổng hợp chất hữu cơ."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 27,
+    "question": "Yếu tố nào sau đây KHÔNG ảnh hưởng trực tiếp đến cường độ quang hợp?",
+    "options": [
+      "Ánh sáng.",
+      "Nồng độ oxygen.",
+      "Nồng độ carbon dioxide.",
+      "Nhiệt độ."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "question": "Cường độ ánh sáng quá mạnh sẽ ảnh hưởng như thế nào đến quang hợp?",
+    "options": [
+      "Quang hợp tăng liên tục.",
+      "Phá hủy diệp lục, quang hợp giảm hoặc ngừng lại.",
+      "Không ảnh hưởng.",
+      "Cây chuyển sang hô hấp."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "Nước đóng vai trò gì trong quá trình quang hợp?",
+    "options": [
+      "Là sản phẩm.",
+      "Là nguyên liệu tham gia quang hợp và điều tiết khí khổng.",
+      "Xúc tác phản ứng.",
+      "Cung cấp năng lượng."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "Nhiệt độ thích hợp nhất cho quá trình quang hợp của phần lớn thực vật là bao nhiêu?",
+    "options": [
+      "0 - 10 độ C.",
+      "10 - 20 độ C.",
+      "25 - 35 độ C.",
+      "40 - 50 độ C."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 31,
+    "question": "Hô hấp tế bào là quá trình phân giải chất nào?",
+    "options": [
+      "Chất vô cơ.",
+      "Chất hữu cơ.",
+      "Nước.",
+      "Vitamin."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "question": "Hô hấp tế bào cần sử dụng khí nào?",
+    "options": [
+      "Oxygen.",
+      "Carbon dioxide.",
+      "Nitrogen.",
+      "Hydrogen."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 33,
+    "question": "Sản phẩm của quá trình hô hấp tế bào là gì?",
+    "options": [
+      "Oxygen, nước, năng lượng.",
+      "Carbon dioxide, chất hữu cơ.",
+      "Carbon dioxide, nước, năng lượng.",
+      "Oxygen, chất hữu cơ."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 34,
+    "question": "Bào quan nào là nơi diễn ra quá trình hô hấp tế bào?",
+    "options": [
+      "Lục lạp.",
+      "Không bào.",
+      "Màng tế bào.",
+      "Ti thể."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 35,
+    "question": "Mối quan hệ giữa quang hợp và hô hấp là gì?",
+    "options": [
+      "Hai quá trình độc lập.",
+      "Hai quá trình trái ngược nhưng phụ thuộc lẫn nhau.",
+      "Hô hấp tạo ra nguyên liệu cho hô hấp.",
+      "Cùng tổng hợp chất hữu cơ."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "Tại sao để bảo quản hạt giống, người ta cần phơi khô hạt?",
+    "options": [
+      "Để tăng lượng nước trong hạt.",
+      "Để giảm cường độ hô hấp tế bào, tránh tiêu hao chất hữu cơ.",
+      "Để hạt hấp thụ nhiều oxygen hơn.",
+      "Để hạt dễ nảy mầm."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "Biện pháp bảo quản rau củ quả trong tủ lạnh dựa trên cơ sở nào?",
+    "options": [
+      "Nhiệt độ thấp làm tăng hô hấp.",
+      "Nhiệt độ thấp làm giảm cường độ hô hấp tế bào.",
+      "Nhiệt độ thấp làm rau củ chín nhanh hơn.",
+      "Nhiệt độ thấp cung cấp thêm năng lượng."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "question": "Cường độ hô hấp của sinh vật tỉ lệ thuận với yếu tố nào dưới đây?",
+    "options": [
+      "Hàm lượng nước trong cơ thể.",
+      "Nồng độ carbon dioxide.",
+      "Khối lượng sinh vật.",
+      "Kích thước tế bào."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 39,
+    "question": "Bơm khí carbon dioxide nồng độ cao vào kho bảo quản trái cây nhằm mục đích gì?",
+    "options": [
+      "Kích thích trái cây hô hấp.",
+      "Ức chế quá trình hô hấp tế bào để trái cây lâu hỏng.",
+      "Kích thích trái cây chín nhanh.",
+      "Cung cấp chất dinh dưỡng cho trái cây."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "question": "Khi vận động mạnh, nhịp thở của chúng ta tăng lên nhằm mục đích chủ yếu nào?",
+    "options": [
+      "Thải nước ra ngoài.",
+      "Lấy nhiều oxygen cho hô hấp tế bào tạo năng lượng.",
+      "Làm mát cơ thể.",
+      "Hấp thụ nhiều carbon dioxide."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 41,
+    "question": "Phân tử nước được cấu tạo từ các nguyên tố nào?",
+    "options": [
+      "Carbon và Oxygen.",
+      "Hydrogen và Oxygen.",
+      "Nitrogen và Oxygen.",
+      "Hydrogen và Carbon."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 42,
+    "question": "Nhóm chất nào sau đây cung cấp năng lượng chủ yếu cho hoạt động của cơ thể?",
+    "options": [
+      "Carbohydrate (Chất bột đường).",
+      "Vitamin.",
+      "Nước.",
+      "Chất khoáng."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 43,
+    "question": "Thực phẩm nào sau đây chứa nhiều protein (chất đạm)?",
+    "options": [
+      "Gạo.",
+      "Thịt bò.",
+      "Dầu ăn.",
+      "Cam."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "Tính chất nào của nước giúp nó trở thành dung môi hòa tan tốt nhiều chất?",
+    "options": [
+      "Tính dẫn điện tốt.",
+      "Tính phân cực.",
+      "Tính trong suốt.",
+      "Tính bay hơi."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "question": "Nhóm chất dinh dưỡng nào có vai trò chủ yếu trong việc cấu tạo nên tế bào và cơ thể sinh vật?",
+    "options": [
+      "Vitamin.",
+      "Lipid (chất béo).",
+      "Protein (chất đạm).",
+      "Carbohydrate."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 46,
+    "question": "Ngoài cung cấp năng lượng, lipid còn có vai trò gì?",
+    "options": [
+      "Là dung môi hòa tan các vitamin A, D, E, K.",
+      "Vận chuyển oxygen trong máu.",
+      "Cấu tạo nên xương và răng.",
+      "Xúc tác các phản ứng hóa học."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 47,
+    "question": "Việc đổ mồ hôi khi trời nóng thể hiện vai trò nào của nước đối với cơ thể?",
+    "options": [
+      "Cung cấp năng lượng.",
+      "Điều hòa thân nhiệt.",
+      "Hòa tan chất dinh dưỡng.",
+      "Bảo vệ cơ thể khỏi vi khuẩn."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 48,
+    "question": "Nước chiếm khoảng bao nhiêu phần trăm khối lượng cơ thể người trưởng thành?",
+    "options": [
+      "Khoảng 30%.",
+      "Khoảng 50%.",
+      "Khoảng 70%.",
+      "Khoảng 90%."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 49,
+    "question": "Nhóm thực phẩm nào sau đây là nguồn cung cấp dồi dào vitamin và chất khoáng?",
+    "options": [
+      "Rau củ, quả tươi.",
+      "Cơm, bún, phở.",
+      "Thịt lợn, thịt bò.",
+      "Mỡ động vật, bơ."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 50,
+    "question": "Theo cấu trúc phân tử, một phân tử nước gồm:",
+    "options": [
+      "1 nguyên tử Oxygen liên kết với 1 nguyên tử Hydrogen.",
+      "2 nguyên tử Oxygen liên kết với 1 nguyên tử Hydrogen.",
+      "1 nguyên tử Oxygen liên kết với 2 nguyên tử Hydrogen.",
+      "2 nguyên tử Oxygen liên kết với 2 nguyên tử Hydrogen."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 51,
+    "question": "Cơ quan chủ yếu hấp thụ nước và muối khoáng ở thực vật là gì?",
+    "options": [
+      "Lá.",
+      "Thân.",
+      "Rễ.",
+      "Hoa."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 52,
+    "question": "Quá trình thoát hơi nước chủ yếu diễn ra ở cơ quan nào của thực vật?",
+    "options": [
+      "Lá.",
+      "Rễ.",
+      "Thân.",
+      "Cành."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 53,
+    "question": "Mạch gỗ có chức năng gì trong cây?",
+    "options": [
+      "Vận chuyển chất hữu cơ từ lá xuống rễ.",
+      "Vận chuyển nước và muối khoáng từ rễ lên các cơ quan.",
+      "Hấp thụ ánh sáng mặt trời.",
+      "Trao đổi khí với môi trường."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 54,
+    "question": "Bộ phận nào của rễ trực tiếp làm nhiệm vụ hút nước và chất khoáng?",
+    "options": [
+      "Lông hút.",
+      "Chóp rễ.",
+      "Vỏ rễ.",
+      "Mạch gỗ."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 55,
+    "question": "Vai trò của mạch rây trong cây là gì?",
+    "options": [
+      "Vận chuyển nước từ rễ lên lá.",
+      "Vận chuyển chất khoáng lên ngọn cây.",
+      "Vận chuyển chất hữu cơ từ lá đi nuôi các cơ quan khác.",
+      "Giúp cây đứng vững."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 56,
+    "question": "Sự thoát hơi nước ở lá mang lại lợi ích gì cho cây?",
+    "options": [
+      "Tạo lực hút kéo nước từ rễ lên và làm mát lá.",
+      "Cung cấp năng lượng cho cây phát triển.",
+      "Giúp rễ bám sâu vào lòng đất.",
+      "Tăng cường quá trình hô hấp."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 57,
+    "question": "Cấu trúc nào trên lá cây thực hiện việc đóng mở để thoát hơi nước?",
+    "options": [
+      "Gân lá.",
+      "Khí khổng.",
+      "Cuống lá.",
+      "Biểu bì trên."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 58,
+    "question": "Yếu tố nào sau đây ảnh hưởng lớn nhất đến sự trao đổi nước ở thực vật?",
+    "options": [
+      "Độ ẩm đất và độ ẩm không khí.",
+      "Nồng độ khí Oxygen.",
+      "Nồng độ khí Carbon dioxide.",
+      "Lượng mây trên bầu trời."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 59,
+    "question": "Bón phân quá nhiều (quá liều lượng) sẽ gây ra hậu quả gì cho cây?",
+    "options": [
+      "Cây lớn nhanh gấp đôi.",
+      "Rễ cây khó hút nước, dễ bị héo và chết.",
+      "Lá cây xanh đậm hơn bình thường.",
+      "Cây ra nhiều hoa hơn."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 60,
+    "question": "Khi bứng cây đem đi trồng nơi khác, việc cắt bớt lá nhằm mục đích gì?",
+    "options": [
+      "Để cây đỡ nặng.",
+      "Kích thích rễ mọc nhanh hơn.",
+      "Giảm sự thoát hơi nước qua lá khi rễ chưa hút nước tốt.",
+      "Làm cho cây có hình dáng đẹp."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 61,
+    "question": "Động vật chủ yếu lấy nước vào cơ thể qua con đường nào?",
+    "options": [
+      "Qua da và lông.",
+      "Qua hô hấp.",
+      "Qua thức ăn và nước uống.",
+      "Qua bài tiết."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 62,
+    "question": "Nước được thải ra khỏi cơ thể con người chủ yếu thông qua hình thức nào?",
+    "options": [
+      "Nước tiểu và mồ hôi.",
+      "Phân và nước bọt.",
+      "Khóc và thở.",
+      "Chỉ qua nước tiểu."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 63,
+    "question": "Hệ tuần hoàn ở người bao gồm các cơ quan chính nào?",
+    "options": [
+      "Tim và phổi.",
+      "Tim và hệ thống mạch máu.",
+      "Phổi và mạch máu.",
+      "Dạ dày và ruột."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 64,
+    "question": "Cơ quan nào hoạt động như một chiếc bơm đẩy máu đi khắp cơ thể?",
+    "options": [
+      "Phổi.",
+      "Não.",
+      "Tim.",
+      "Thận."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 65,
+    "question": "Vai trò của hệ tuần hoàn trong cơ thể động vật là gì?",
+    "options": [
+      "Tiêu hóa thức ăn thành chất dinh dưỡng.",
+      "Vận chuyển nước, chất dinh dưỡng, Oxygen và các sản phẩm trao đổi chất.",
+      "Tạo ra các cử động của cơ thể.",
+      "Tiếp nhận và xử lý thông tin từ môi trường."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 66,
+    "question": "Thức ăn được tiêu hóa và hấp thụ chất dinh dưỡng chủ yếu ở đoạn nào của ống tiêu hóa?",
+    "options": [
+      "Dạ dày.",
+      "Thực quản.",
+      "Ruột non.",
+      "Ruột già."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 67,
+    "question": "Chất dinh dưỡng sau khi được hấp thụ ở ruột sẽ đi vào đâu để phân phối đến các tế bào?",
+    "options": [
+      "Hệ hô hấp.",
+      "Hệ tuần hoàn (mạch máu).",
+      "Hệ thần kinh.",
+      "Hệ bài tiết."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 68,
+    "question": "Biện pháp nào sau đây giúp bảo vệ hệ tiêu hóa khỏe mạnh?",
+    "options": [
+      "Ăn quá no vào buổi tối.",
+      "Ăn chín, uống sôi, nhai kĩ thức ăn.",
+      "Ăn nhiều đồ chiên rán, dầu mỡ.",
+      "Vừa ăn vừa chạy nhảy, đùa giỡn."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 69,
+    "question": "Việc thường xuyên ăn thức ăn nhanh (fast food) nhiều dầu mỡ gây tác hại rõ rệt nhất đến hệ cơ quan nào?",
+    "options": [
+      "Hệ tuần hoàn (tim mạch).",
+      "Hệ hô hấp.",
+      "Hệ thần kinh.",
+      "Hệ cơ xương."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 70,
+    "question": "Khi tập thể dục thao mất nhiều mồ hôi, chúng ta cần làm gì để bù lại lượng nước đã mất?",
+    "options": [
+      "Ngủ một giấc thật sâu.",
+      "Uống bổ sung nước vừa đủ.",
+      "Ăn thật nhiều đồ ngọt.",
+      "Tắm ngay bằng nước lạnh."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 71,
+    "question": "Cảm ứng ở sinh vật là gì?",
+    "options": [
+      "Khả năng sinh sản tạo ra thế hệ mới.",
+      "Khả năng lớn lên và tăng kích thước cơ thể.",
+      "Phản ứng của sinh vật đối với các kích thích từ môi trường.",
+      "Khả năng tự di chuyển từ nơi này sang nơi khác."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 72,
+    "question": "Hiện tượng ngọn cây cong về phía nguồn sáng gọi là gì?",
+    "options": [
+      "Tính hướng nước.",
+      "Tính hướng sáng.",
+      "Tính hướng trọng lực.",
+      "Tính hướng hóa."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 73,
+    "question": "Rễ cây luôn mọc hướng về nơi có nguồn nước dồi dào là biểu hiện của tính cảm ứng nào?",
+    "options": [
+      "Hướng sáng.",
+      "Hướng tiếp xúc.",
+      "Hướng nước.",
+      "Hướng hóa."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 74,
+    "question": "Tua cuốn của cây mướp, cây bầu bám vào giàn leo lên là ví dụ về:",
+    "options": [
+      "Tính hướng sáng.",
+      "Tính hướng tiếp xúc.",
+      "Tính hướng nước.",
+      "Tính hướng trọng lực."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 75,
+    "question": "Vai trò chính của cảm ứng đối với sinh vật là gì?",
+    "options": [
+      "Giúp sinh vật có hình thái đẹp hơn.",
+      "Giúp sinh vật phát triển kích thước lớn nhất.",
+      "Giúp sinh vật thích nghi với môi trường sống để tồn tại và phát triển.",
+      "Giúp sinh vật dễ dàng đi vào giấc ngủ đông."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 76,
+    "question": "Nhân tố kích thích gây ra tính hướng sáng ở thực vật là gì?",
+    "options": [
+      "Nguồn nước.",
+      "Nhiệt độ.",
+      "Trọng lực.",
+      "Ánh sáng."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 77,
+    "question": "Rễ cây tránh xa các khu vực có hóa chất độc hại trong đất là biểu hiện của:",
+    "options": [
+      "Tính hướng nước.",
+      "Tính hướng hóa (âm).",
+      "Tính hướng sáng.",
+      "Tính hướng tiếp xúc."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 78,
+    "question": "Ứng dụng tính hướng sáng của thực vật, trong nông nghiệp người ta thường làm gì?",
+    "options": [
+      "Bón phân thật nhiều vào gốc cây.",
+      "Tưới nước thường xuyên vào buổi tối.",
+      "Gieo trồng với mật độ vừa phải để cây nhận đủ ánh sáng.",
+      "Làm giàn leo cho tất cả các loại cây."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 79,
+    "question": "Đối với các loại cây thủy sinh như sen, súng, người ta phải trồng chúng ở ao hồ là ứng dụng của tính:",
+    "options": [
+      "Hướng tiếp xúc.",
+      "Hướng nước.",
+      "Hướng hóa.",
+      "Hướng sáng."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 80,
+    "question": "Trong thí nghiệm chứng minh tính hướng sáng, nếu ta đặt chậu cây vào hộp các tông chỉ đục một lỗ nhỏ bên hông, ngọn cây sẽ mọc như thế nào?",
+    "options": [
+      "Mọc thẳng đứng lên trên.",
+      "Ngừng sinh trưởng.",
+      "Uốn cong về phía có lỗ thủng (nơi có ánh sáng).",
+      "Uốn cong về phía đối diện lỗ thủng."
+    ],
+    "correctAnswer": 2
+  }
+]
