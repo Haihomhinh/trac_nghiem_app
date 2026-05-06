@@ -1,7 +1,43 @@
 import React, { useState, useEffect } from 'react';
-import quizData from './data/khtn7_40.json'; 
+import quizData from './data/khtn7.json'; 
+
+// Hàm dùng để xáo trộn đáp án và cập nhật lại correctAnswer
+const shuffleOptionsForQuiz = (data) => {
+  return data.map(question => {
+    // 1. Tạo mảng object chứa text (đã lột bỏ A., B., C., D. nếu có) và đánh dấu đáp án đúng
+    let optionsList = question.options.map((text, index) => {
+      const cleanText = text.replace(/^[A-D][\.\:]\s*/i, ''); // Xóa chữ A. B. ở đầu
+      return {
+        text: cleanText,
+        isCorrect: index === question.correctAnswer
+      };
+    });
+
+    // 2. Thuật toán Fisher-Yates để xáo trộn mảng optionsList
+    for (let i = optionsList.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [optionsList[i], optionsList[j]] = [optionsList[j], optionsList[i]];
+    }
+
+    // 3. Tìm lại vị trí mới của đáp án đúng sau khi đã đảo
+    const newCorrectAnswerIndex = optionsList.findIndex(opt => opt.isCorrect);
+
+    // 4. Gắn lại tiền tố A, B, C, D theo thứ tự hiển thị mới
+    const formattedOptions = optionsList.map((opt, i) => `${String.fromCharCode(65 + i)}. ${opt.text}`);
+
+    // Trả về object câu hỏi mới
+    return {
+      ...question,
+      options: formattedOptions,
+      correctAnswer: newCorrectAnswerIndex
+    };
+  });
+};
 
 export default function App() {
+  // Khởi tạo state bằng hàm shuffle để ngay lần đầu vào web đáp án đã được đảo
+  const [quizStateData, setQuizStateData] = useState(() => shuffleOptionsForQuiz(quizData));
+  
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [score, setScore] = useState(0);
   const [userAnswers, setUserAnswers] = useState(Array(quizData.length).fill(null)); 
@@ -23,14 +59,14 @@ export default function App() {
     newAnswers[currentQuestion] = index;
     setUserAnswers(newAnswers);
 
-    // Chỉ tính điểm ở lần đầu tiên tương tác với câu hỏi
-    if (index === quizData[currentQuestion].correctAnswer) {
+    // Dùng quizStateData thay vì quizData để check đúng sai
+    if (index === quizStateData[currentQuestion].correctAnswer) {
       setScore(prevScore => prevScore + 1);
     }
   };
 
   const handleNextQuestion = () => {
-    if (currentQuestion + 1 < quizData.length) {
+    if (currentQuestion + 1 < quizStateData.length) {
       setCurrentQuestion(currentQuestion + 1);
     } else {
       setShowResult(true);
@@ -44,15 +80,17 @@ export default function App() {
   };
 
   const restartQuiz = () => {
+    // Gọi lại hàm shuffle để đảo lại đáp án cho lần làm mới
+    setQuizStateData(shuffleOptionsForQuiz(quizData)); 
     setCurrentQuestion(0);
     setScore(0);
     setUserAnswers(Array(quizData.length).fill(null));
     setShowResult(false);
   };
 
-  const progressPercentage = ((currentQuestion + 1) / quizData.length) * 100;
+  const progressPercentage = ((currentQuestion + 1) / quizStateData.length) * 100;
 
-  // --- STYLES (Giữ nguyên phong cách Times New Roman của bạn) ---
+  // --- STYLES ---
   const pageStyle = {
     minHeight: '100vh',
     display: 'flex',
@@ -77,11 +115,11 @@ export default function App() {
   const optionStyle = (index) => {
     let bgColor = '#fdfdfd';
     let borderColor = '#e0e0e0';
-    let textColor = '#000'; // Mặc định là màu đen
+    let textColor = '#000'; 
     const selectedInThisQuestion = userAnswers[currentQuestion];
 
     if (selectedInThisQuestion !== null) {
-      if (index === quizData[currentQuestion].correctAnswer) {
+      if (index === quizStateData[currentQuestion].correctAnswer) {
         bgColor = '#d1e7dd'; 
         borderColor = '#badbcc';
       } else if (index === selectedInThisQuestion) {
@@ -97,17 +135,16 @@ export default function App() {
       margin: '10px 0',
       textAlign: 'left',
       backgroundColor: bgColor,
-      color: textColor, // Đảm bảo chữ luôn màu đen
+      color: textColor, 
       border: `2px solid ${borderColor}`,
       borderRadius: '10px',
       cursor: selectedInThisQuestion === null ? 'pointer' : 'not-allowed',
       fontSize: isMobile ? '16px' : '19px',
-      fontFamily: '"Times New Roman", Times, serif', // Giữ font Times New Roman
-      fontWeight: 'normal', // Không in đậm
+      fontFamily: '"Times New Roman", Times, serif', 
+      fontWeight: 'normal', 
       transition: 'all 0.2s ease',
       boxSizing: 'border-box',
-      // Giảm độ mờ của các câu không chọn để làm nổi bật đáp án nhưng vẫn phải đọc được
-      opacity: (selectedInThisQuestion !== null && index !== selectedInThisQuestion && index !== quizData[currentQuestion].correctAnswer) ? 0.5 : 1
+      opacity: (selectedInThisQuestion !== null && index !== selectedInThisQuestion && index !== quizStateData[currentQuestion].correctAnswer) ? 0.5 : 1
     };
   };
   
@@ -125,7 +162,7 @@ export default function App() {
   const btnBackStyle = {
     ...btnNextStyle,
     backgroundColor: '#6c757d',
-    marginRight: 'auto' // Đẩy nút quay lại sang trái
+    marginRight: 'auto' 
   };
 
   return (
@@ -135,7 +172,7 @@ export default function App() {
           <div style={{ textAlign: 'center' }}>
             <div style={{ fontSize: '50px' }}>🎉</div>
             <div style={{ fontSize: isMobile ? '20px' : '24px', margin: '15px 0' }}>Kết quả bài tập</div>
-            <div style={{ fontSize: '18px' }}>Bạn đạt được: {score} / {quizData.length} câu đúng</div>
+            <div style={{ fontSize: '18px' }}>🦍🐒 đạt được: {score} / {quizStateData.length} câu đúng</div>
             <button onClick={restartQuiz} style={{...btnNextStyle, backgroundColor: '#28a745', marginTop: '20px'}}>Làm lại từ đầu</button>
           </div>
         ) : (
@@ -145,20 +182,20 @@ export default function App() {
             </div>
 
             <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '15px', color: '#666', fontSize: '14px' }}>
-              <span>Câu {currentQuestion + 1} / {quizData.length}</span>
-              <span>Điểm hiện tại: {score} 🐳💕</span>
+              <span>Câu {currentQuestion + 1} / {quizStateData.length}</span>
+              <span>Điểm hiện tại: {score} 🐳🐳</span>
             </div>
             
             <div style={{ marginBottom: '20px', fontSize: isMobile ? '18px' : '22px', textAlign: 'justify', lineHeight: '1.4' }}>
-              {quizData[currentQuestion].question}
+              {quizStateData[currentQuestion].question}
             </div>
 
             <div>
-              {quizData[currentQuestion].options.map((option, index) => (
+              {quizStateData[currentQuestion].options.map((option, index) => (
                 <button 
                   key={index} 
                   onClick={() => handleAnswerClick(index)} 
-                  disabled={userAnswers[currentQuestion] !== null} // KHÔNG cho tương tác lại
+                  disabled={userAnswers[currentQuestion] !== null} 
                   style={optionStyle(index)}
                 >
                   {option}
@@ -172,7 +209,7 @@ export default function App() {
               )}
               {userAnswers[currentQuestion] !== null && (
                 <button onClick={handleNextQuestion} style={btnNextStyle}>
-                  {currentQuestion + 1 === quizData.length ? 'Xem kết quả' : 'Câu tiếp theo \u279C'}
+                  {currentQuestion + 1 === quizStateData.length ? 'Xem kết quả' : 'Câu tiếp theo \u279C'}
                 </button>
               )}
             </div>

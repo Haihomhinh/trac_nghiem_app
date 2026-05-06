@@ -1,242 +1,302 @@
 [
   {
     "id": 1,
-    "question": "Một thanh nam châm bị gãy làm hai thì:",
-    "options": ["Một nửa là cực Bắc, một nửa là cực Nam.", "Cả hai nửa đều mất từ tính.", "Mỗi nửa đều là một nam châm có hai cực Bắc - Nam.", "Mỗi nửa đều là một nam châm và cực của mỗi nửa ở chỗ đứt gãy cùng tên."],
-    "correctAnswer": 2
+    "question": "Vùng không gian bao quanh một nam châm (hoặc dây dẫn mang dòng điện), mà vật liệu có tính chất từ đặt trong nó chịu tác dụng lực từ được gọi là:[cite: 2]",
+    "options": ["A. Điện trường", "B. Từ trường", "C. Trọng trường", "D. Quang trường"],
+    "correctAnswer": 1
   },
   {
     "id": 2,
-    "question": "Trao đổi chất và chuyển hoá năng lượng có vai trò quan trọng đối với:",
-    "options": ["Sự chuyển hoá của sinh vật.", "Sự biến đổi các chất.", "Sự trao đổi năng lượng.", "Sự sống của sinh vật."],
-    "correctAnswer": 3
+    "question": "Hình ảnh các đường sức từ trực quan được gọi là gì?[cite: 2]",
+    "options": ["A. Từ phổ", "B. Từ cực", "C. Từ lực", "D. Từ tính"],
+    "correctAnswer": 0
   },
   {
     "id": 3,
-    "question": "Các yếu tố chủ yếu ngoài môi trường ảnh hưởng đến quang hợp là:",
-    "options": ["Nước, hàm lượng khí carbon dioxide, hàm lượng khí oxygen.", "Nước, hàm lượng khí carbon dioxide, ánh sáng, nhiệt độ.", "Nước, hàm lượng khí oxygen, ánh sáng.", "Nước, hàm lượng khí oxygen, nhiệt độ."],
-    "correctAnswer": 1
+    "question": "Để tạo ra từ phổ của một nam châm trong phòng thí nghiệm, người ta có thể sử dụng dụng cụ nào sau đây?[cite: 2]",
+    "options": ["A. Mạt đồng và nam châm", "B. Mạt nhôm và nam châm", "C. Mạt sắt và nam châm", "D. Bột kẽm và nam châm"],
+    "correctAnswer": 2
   },
   {
     "id": 4,
-    "question": "Ở thực vật có hai loại mô phân sinh là:",
-    "options": ["Mô phân sinh đỉnh và mô phân sinh bên.", "Mô phân sinh cành và mô phân sinh rễ.", "Mô phân sinh lá và mô phân sinh thân.", "Mô phân sinh ngọn và mô phân sinh rễ."],
-    "correctAnswer": 0
+    "question": "Khi đặt một vật liệu có tính chất từ vào bên trong từ trường, hiện tượng gì sẽ xảy ra?[cite: 2]",
+    "options": ["A. Bị đổi màu", "B. Bị nóng chảy", "C. Chịu tác dụng lực từ", "D. Phát ra ánh sáng"],
+    "correctAnswer": 2
   },
   {
     "id": 5,
-    "question": "Loại mô giúp cho thân dài ra là:",
-    "options": ["Mô phân sinh ngọn.", "Mô phân sinh rễ.", "Mô phân sinh lá.", "Mô phân sinh thân."],
-    "correctAnswer": 0
+    "question": "Dấu hiệu nào sau đây chứng tỏ không gian xung quanh một dây dẫn mang dòng điện có từ trường?[cite: 2]",
+    "options": ["A. Dây dẫn phát sáng", "B. Dây dẫn tỏa nhiệt", "C. Dây dẫn hút mẩu giấy vụn", "D. Dây dẫn tác dụng lực lên mạt sắt"],
+    "correctAnswer": 3
   },
   {
     "id": 6,
-    "question": "Sinh sản là:",
-    "options": ["Một trong những đặc trưng cơ bản của cơ thể sống.", "Quá trình không thể thiếu của cơ thể sống.", "Đặc trưng của vật không sống.", "Đặc trưng cơ bản của động vật."],
-    "correctAnswer": 0
-  },
-  {
-    "id": 7,
-    "question": "Sinh sản hữu tính ở sinh vật là quá trình tạo ra cơ thể mới từ:",
-    "options": ["Một phần của cơ thể mẹ hoặc bố.", "Sự kết hợp giữa cơ thể mẹ và cơ thể bố.", "Hợp nhất giữa giao tử đực và giao tử cái tạo thành hợp tử, hợp tử phát triển thành cơ thể mới.", "Tạo ra cơ thể mới từ cơ quan sinh dưỡng của cơ thể mẹ."],
-    "correctAnswer": 2
-  },
-  {
-    "id": 8,
-    "question": "Trong điều khiển sinh sản ở động vật, biện pháp nào thúc đẩy trứng chín nhanh và chín hàng loạt?",
-    "options": ["Sử dụng hormone hoặc thay đổi yếu tố môi trường.", "Nuôi cấy phôi, thụ tinh nhân tạo.", "Nuôi cấy phôi, thay đổi các yếu tố môi trường.", "Sử dụng hormone."],
-    "correctAnswer": 3
-  },
-  {
-    "id": 9,
-    "question": "Mạt sắt đặt ở chỗ nào trên thanh nam châm thì bị hút mạnh nhất?",
-    "options": ["Ở phần giữa của thanh.", "Chỉ ở đầu cực Bắc của thanh nam châm.", "Chỉ ở đầu cực Nam của thanh nam châm.", "Ở cả hai đầu cực Bắc và cực Nam của thanh nam châm."],
-    "correctAnswer": 3
-  },
-  {
-    "id": 10,
-    "question": "Sản phẩm của quang hợp là:",
-    "options": ["Nước, carbon dioxide.", "Ánh sáng, diệp lục.", "Oxygen, glucose.", "Glucose, nước."],
-    "correctAnswer": 2
-  },
-  {
-    "id": 11,
-    "question": "Trao đổi khí ở sinh vật là quá trình:",
-    "options": ["Lấy khí O2 từ môi trường vào cơ thể và thải khí CO2 từ cơ thể ra môi trường.", "Lấy khí CO2 từ môi trường vào cơ thể và thải khí O2 từ cơ thể ra môi trường.", "Lấy khí O2 hoặc CO2 từ môi trường vào cơ thể, đồng thời thải khí CO2 hoặc O2 từ cơ thể ra môi trường.", "Lấy khí CO2 từ môi trường vào cơ thể, đồng thời thải khí O2 và CO2 ra ngoài môi trường."],
-    "correctAnswer": 0
-  },
-  {
-    "id": 12,
-    "question": "Thứ tự các bước thí nghiệm đúng để chứng minh tính hướng nước của cây là:",
-    "options": ["1, 2, 3, 4.", "3, 1, 2, 4.", "4, 2, 3, 1.", "3, 2, 1, 4."],
+    "question": "Nơi nào trên thanh nam châm có từ trường mạnh nhất (dựa vào quan sát mật độ mạt sắt của từ phổ)?[cite: 2]",
+    "options": ["A. Ở giữa thanh nam châm", "B. Ở hai từ cực", "C. Cách đều hai từ cực", "D. Bên ngoài từ phổ"],
     "correctAnswer": 1
   },
   {
-    "id": 13,
-    "question": "Khi nói về mối quan hệ giữa sinh trưởng và phát triển đời sống sinh vật, có bao nhiêu phát biểu đúng?",
-    "options": ["6", "5", "4", "3"],
+    "id": 7,
+    "question": "Hiện tượng nào sau đây là bằng chứng chứng minh Trái Đất có từ trường?[cite: 2]",
+    "options": ["A. Mọi vật đều rơi xuống đất", "B. Kim nam châm tự do luôn chỉ hướng Bắc - Nam", "C. Trái Đất quay quanh Mặt Trời", "D. Có sự luân phiên ngày và đêm"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "La bàn là dụng cụ được sử dụng chủ yếu để làm gì?[cite: 2]",
+    "options": ["A. Đo nhiệt độ", "B. Đo áp suất", "C. Xác định phương hướng", "D. Đo độ ẩm"],
     "correctAnswer": 2
   },
   {
+    "id": 9,
+    "question": "Bộ phận cốt lõi của một chiếc la bàn giúp nó có thể hoạt động là:[cite: 2]",
+    "options": ["A. Vỏ hộp", "B. Kim nam châm", "C. Mặt kính", "D. Vòng chia độ"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "Khi sử dụng la bàn để tìm hướng, ta KHÔNG nên đặt la bàn gần vật nào sau đây để tránh sai số?[cite: 2]",
+    "options": ["A. Khối gỗ", "B. Cốc nước", "C. Quyển vở", "D. Thanh nam châm"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 11,
+    "question": "Vì sao kim la bàn luôn chỉ theo một hướng xác định?[cite: 2]",
+    "options": ["A. Nhờ lực hút của Mặt Trăng", "B. Nhờ lực hút của Trái Đất", "C. Chịu tác dụng từ trường của Trái Đất", "D. Chịu sức đẩy của gió"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "question": "Nếu đặt la bàn tại xích đạo, kim la bàn sẽ định hướng như thế nào so với các đường sức từ của Trái Đất?[cite: 2]",
+    "options": ["A. Nằm dọc theo đường sức từ", "B. Vuông góc với đường sức từ", "C. Quay tròn liên tục", "D. Chĩa thẳng đứng xuống đất"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 13,
+    "question": "Đặc điểm cấu tạo nào của phiến lá giúp nó nhận được nhiều ánh sáng nhất phục vụ cho quang hợp?[cite: 2]",
+    "options": ["A. Có nhiều gân lá", "B. Dạng bản mỏng, diện tích bề mặt lớn", "C. Phân bố nhiều lỗ khí", "D. Có cuống lá dài"],
+    "correctAnswer": 1
+  },
+  {
     "id": 14,
-    "question": "Nhân tố quan trọng quyết định sự sinh trưởng và phát triển của động vật là:",
-    "options": ["Yếu tố di truyền", "Hormone", "Thức ăn", "Nhiệt độ và ánh sáng"],
+    "question": "Những yếu tố chủ yếu nào ảnh hưởng đến quá trình quang hợp ở thực vật?[cite: 2]",
+    "options": ["A. Ánh sáng, nước, nồng độ CO2, nhiệt độ", "B. Ánh sáng, O2, nhiệt độ, độ ẩm", "C. Gió, nhiệt độ, nồng độ O2", "D. Khí N2, độ ẩm đất, ánh sáng"],
     "correctAnswer": 0
   },
   {
     "id": 15,
-    "question": "Nhóm thực vật dưới đây sinh sản bằng thân rễ?",
-    "options": ["Rau má, dâu tây.", "Khoai lang, khoai tây.", "Gừng, củ gấu.", "Lá bỏng, hoa đá."],
+    "question": "Trong quang hợp, cấu tạo nào của lá thực hiện chức năng chính là trao đổi khí và thoát hơi nước?[cite: 2]",
+    "options": ["A. Biểu bì", "B. Gân lá", "C. Khí khổng (lỗ khí)", "D. Cuống lá"],
     "correctAnswer": 2
   },
   {
     "id": 16,
-    "question": "Sinh sản hữu tính khác sinh sản vô tính là:",
-    "options": ["Có sự kết hợp giữa giao tử đực và giao tử cái tạo thành hợp tử.", "Không có sự kết hợp giữa giao tử đực và giao tử cái tạo thành hợp tử.", "Tạo cơ thể mới từ các bộ phận khác nhau của cơ thể.", "Cơ thể mẹ sinh ra cơ thể con từ tế bào giao tử cái."],
-    "correctAnswer": 0
+    "question": "Nước có vai trò gì trong quá trình quang hợp của thực vật?[cite: 2]",
+    "options": ["A. Là sản phẩm thải ra", "B. Là nguồn cung cấp năng lượng", "C. Là nguyên liệu tham gia quang hợp", "D. Là chất xúc tác"],
+    "correctAnswer": 2
   },
   {
     "id": 17,
-    "question": "Câu phát biểu nào chưa chính xác khi nói về Cực Bắc của nam châm vĩnh cửu là:",
-    "options": ["Cực luôn hướng về phía Bắc địa lý.", "Cực được kí hiệu bằng chữ S.", "Cực được kí hiệu bằng chữ N.", "Nơi hút được nhiều mạt sắt."],
+    "question": "Vào buổi trưa hè nắng gắt, cường độ ánh sáng quá mạnh làm khí khổng đóng lại, quá trình quang hợp lúc này sẽ:[cite: 2]",
+    "options": ["A. Tăng mạnh mẽ", "B. Giảm hoặc ngừng trệ", "C. Không bị ảnh hưởng", "D. Đạt mức cực đại"],
     "correctAnswer": 1
   },
   {
     "id": 18,
-    "question": "Đường sức từ là những đường cong được vẽ theo quy ước nào?",
-    "options": ["Có chiều từ cực Nam đến cực Bắc bên ngoài thanh nam châm.", "Có độ mau thưa tùy ý.", "Bắt đầu từ cực này và kết thúc ở cực kia của nam châm.", "Có chiều từ cực Bắc tới cực Nam bên ngoài thanh nam châm."],
-    "correctAnswer": 3
-  },
-  {
-    "id": 19,
-    "question": "Quá trình nào dưới đây là quá trình đồng hoá?",
-    "options": ["Tích luỹ năng lượng.", "Giải phóng năng lượng.", "Tổng hợp chất hữu cơ đơn giản từ những chất hữu cơ phức tạp.", "Phân giải các chất hữu cơ thành các chất vô cơ đơn giản."],
-    "correctAnswer": 0
-  },
-  {
-    "id": 20,
-    "question": "Đồng hoá và dị hoá là hai quá trình như thế nào?",
-    "options": ["Đều xảy ra sự tích lũy năng lượng.", "Đều xảy ra sự giải phóng năng lượng.", "Đối lập nhau.", "Mâu thuẫn nhau."],
+    "question": "Khí nào sau đây là nguyên liệu mà lá cây cần hấp thụ để tiến hành quang hợp?[cite: 2]",
+    "options": ["A. Oxygen", "B. Nitrogen", "C. Carbon dioxide", "D. Hydrogen"],
     "correctAnswer": 2
   },
   {
-    "id": 21,
-    "question": "Sản phẩm của quá trình dị hóa là:",
-    "options": ["Nước.", "Protein.", "Xenlulozo.", "Tinh bột."],
+    "id": 19,
+    "question": "Quá trình hô hấp tế bào sử dụng nguyên liệu chính là những chất nào?[cite: 2]",
+    "options": ["A. Oxygen và nước", "B. Năng lượng và khí Carbon dioxide", "C. Các chất hữu cơ (chủ yếu là Glucose) và Oxygen", "D. Nước và Carbon dioxide"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 20,
+    "question": "Sản phẩm được tạo ra từ quá trình hô hấp tế bào là gì?[cite: 2]",
+    "options": ["A. Năng lượng (ATP), Carbon dioxide và Nước", "B. Glucose và Oxygen", "C. Chất hữu cơ và khí O2", "D. Năng lượng, Glucose và Nước"],
     "correctAnswer": 0
   },
   {
+    "id": 21,
+    "question": "Để bảo quản hạt giống ngũ cốc (như thóc, ngô) trong thời gian dài, người ta thường ứng dụng kiến thức về hô hấp tế bào bằng cách nào?[cite: 2]",
+    "options": ["A. Ngâm hạt vào nước ấm", "B. Phơi khô hạt để giảm lượng nước", "C. Ủ kín hạt ở nhiệt độ cao", "D. Chiếu ánh sáng mạnh liên tục"],
+    "correctAnswer": 1
+  },
+  {
     "id": 22,
-    "question": "Các cách để thành lập 1 phản xạ có điều kiện là:",
-    "options": ["1, 2, 3.", "1, 3, 2.", "3, 1, 2.", "2, 1, 3."],
+    "question": "Tại sao việc phơi khô hạt lại có tác dụng bảo quản nông sản hiệu quả?[cite: 2]",
+    "options": ["A. Làm hạt cứng hơn", "B. Loại bỏ hoàn toàn vi khuẩn", "C. Giảm hàm lượng nước, qua đó ức chế quá trình hô hấp tế bào", "D. Thúc đẩy hạt hô hấp mạnh hơn"],
     "correctAnswer": 2
   },
   {
     "id": 23,
-    "question": "Cảm ứng của động vật là:",
-    "options": ["Khả năng cơ thể động vật phản ứng lại các kích thích của một số tác nhân môi trường sống.", "Khả năng cơ thể động vật phản ứng lại các kích thích của môi trường (bên trong và bên ngoài) để tồn tại và phát triển.", "Khả năng cơ thể động vật phản ứng lại các kích thích của môi trường sống, đảm bảo cho cơ thể tồn tại.", "Khả năng cơ thể động vật phản ứng lại các kích thích định hướng của môi trường."],
+    "question": "Ngoài phơi khô, người ta còn sử dụng biện pháp nào sau đây để làm giảm cường độ hô hấp tế bào nhằm bảo quản rau củ tươi?[cite: 2]",
+    "options": ["A. Đun sôi", "B. Bảo quản lạnh", "C. Tưới nhiều nước", "D. Bọc trong giấy báo phơi ngoài nắng"],
     "correctAnswer": 1
   },
   {
     "id": 24,
-    "question": "Biến thái là gì?",
-    "options": ["Sự thay đổi đột ngột về hình thái, cấu tạo và sinh lý sau khi sinh ra.", "Sự thay đổi từ từ về hình thái, cấu tạo và đột ngột về sinh lý sau khi sinh ra.", "Sự thay đổi đột ngột về hình thái, cấu tạo và sinh lý của động vật sau khi sinh ra.", "Sự thay đổi từ từ về hình thái, cấu tạo và về sinh lý của động vật sau khi sinh ra hoặc nở ra từ trứng."],
-    "correctAnswer": 3
+    "question": "Giữa hô hấp tế bào và quang hợp có mối liên hệ như thế nào?[cite: 2]",
+    "options": ["A. Là hai quá trình độc lập không liên quan", "B. Sản phẩm của quang hợp là nguyên liệu của hô hấp và ngược lại", "C. Đều phân giải chất hữu cơ giải phóng năng lượng", "D. Đều chỉ xảy ra ở tế bào động vật"],
+    "correctAnswer": 1
   },
   {
     "id": 25,
-    "question": "Sinh trưởng của cơ thể động vật là quá trình tăng kích thước của:",
-    "options": ["Các hệ cơ quan trong cơ thể", "Cơ thể do tăng kích thước và số lượng tế bào", "Các mô trong cơ thể", "Các cơ quan trong cơ thể"],
+    "question": "Nước có vai trò gì quan trọng đối với cơ thể sinh vật?[cite: 2]",
+    "options": ["A. Cung cấp năng lượng trực tiếp", "B. Là dung môi hòa tan chất, môi trường phản ứng và điều hòa thân nhiệt", "C. Chỉ dùng để cấu tạo nên xương sọ", "D. Cung cấp vitamin thiết yếu"],
     "correctAnswer": 1
   },
   {
     "id": 26,
-    "question": "Sinh sản ở sinh vật là quá trình:",
-    "options": ["Nảy chồi.", "Hình thành cá thể mới.", "Hình thành rễ.", "Gieo hạt."],
+    "question": "Thành phần hoá học của phân tử nước gồm:[cite: 2]",
+    "options": ["A. 1 nguyên tử Hydrogen và 2 nguyên tử Oxygen", "B. 2 nguyên tử Hydrogen và 1 nguyên tử Oxygen", "C. 2 nguyên tử Hydrogen và 2 nguyên tử Oxygen", "D. Chỉ có 2 nguyên tử Oxygen"],
     "correctAnswer": 1
   },
   {
     "id": 27,
-    "question": "Hình thức sinh sản nào sau đây là sinh sản vô tính?",
-    "options": ["Đẻ trứng.", "Đẻ con.", "Phân đôi cơ thể.", "Đẻ trứng và đẻ con."],
-    "correctAnswer": 2
+    "question": "Tính chất cấu trúc nào của phân tử nước giúp nó trở thành dung môi tuyệt vời?[cite: 2]",
+    "options": ["A. Tính bay hơi", "B. Tính phân cực", "C. Kích thước phân tử lớn", "D. Không có điện tích"],
+    "correctAnswer": 1
   },
   {
     "id": 28,
-    "question": "Vì sao nhân giống cam, chanh, bưởi... người ta thường chiết cành mà không sử dụng giâm cành?",
-    "options": ["Thời gian ra rễ của các cây trên rất chậm.", "Những cây đó có giá trị kinh tế cao.", "Cành của các cây đó quá to.", "Khả năng vận chuyển chất dinh dưỡng kém."],
+    "question": "Những nhóm chất dinh dưỡng nào sau đây cần thiết cho cơ thể sinh vật?[cite: 2]",
+    "options": ["A. Carbohydrate, Lipid, Protein, Vitamin và khoáng chất", "B. Khí Oxygen, Carbon dioxide, Nitrogen", "C. Nước, đất, ánh sáng, nhiệt độ", "D. Tinh bột, nhựa cây, cellulose"],
     "correctAnswer": 0
   },
   {
     "id": 29,
-    "question": "Thứ tự các giai đoạn phát triển đúng của vòng đời ếch là:",
-    "options": ["Ếch trưởng thành, trứng, nòng nọc, ếch con.", "Nòng nọc, ếch trưởng thành, trứng, ếch con.", "Trứng, ếch con, nòng nọc, ếch trưởng thành.", "Trứng, nòng nọc, ếch con, ếch trưởng thành."],
-    "correctAnswer": 3
+    "question": "Loại thực phẩm nào dưới đây cung cấp chủ yếu chất đạm (Protein) cho cơ thể?[cite: 2]",
+    "options": ["A. Cơm, bánh mì", "B. Thịt nạc, cá, trứng", "C. Rau xanh, hoa quả tươi", "D. Mỡ lợn, dầu dừa"],
+    "correctAnswer": 1
   },
   {
     "id": 30,
-    "question": "Chọn đáp án đúng khi nói về nhu cầu ánh sáng của cây ưa sáng và cây ưa bóng.",
-    "options": ["Cây ưa sáng không cần nhiều ánh sáng mạnh.", "Cây ưa sáng cần nhiều ánh sáng mạnh, cây ưa bóng không cần nhiều ánh sáng.", "Cây ưa sáng cần ít ánh sáng.", "Cây ưa bóng cần ánh sáng mạnh."],
+    "question": "Để cung cấp đầy đủ chất dinh dưỡng, tại sao chúng ta phải đa dạng các loại thức ăn?[cite: 2]",
+    "options": ["A. Vì thức ăn ngon hơn", "B. Không có một loại thức ăn nào chứa đủ mọi dưỡng chất cần thiết với tỉ lệ phù hợp", "C. Để ăn được nhiều hơn", "D. Để tránh bị ngộ độc thực phẩm"],
     "correctAnswer": 1
   },
   {
     "id": 31,
-    "question": "Dụng cụ dùng để xác định phương hướng trong từ trường Trái Đất là:",
-    "options": ["Nhiệt kế.", "Ampe kế.", "La bàn.", "Tốc kế."],
-    "correctAnswer": 2
+    "question": "Tính phân cực của phân tử nước biểu hiện ở điểm nào?[cite: 2]",
+    "options": ["A. Đầu mang nguyên tử O mang điện tích âm, phía nguyên tử H mang điện tích dương", "B. Cả 2 đầu phân tử đều mang điện dương", "C. Phân tử nước hoàn toàn trung hòa, không có cực", "D. Đầu O mang điện dương, đầu H mang điện âm"],
+    "correctAnswer": 0
   },
   {
     "id": 32,
-    "question": "Nguyên liệu đầu vào của quá trình hô hấp tế bào bao gồm:",
-    "options": ["Oxygen và Glucose.", "Carbon dioxide và Nước.", "Oxygen và Nước.", "Glucose và Carbon dioxide."],
-    "correctAnswer": 0
+    "question": "Ở thực vật, cơ quan nào đóng vai trò chủ yếu trong việc hấp thụ nước và chất khoáng từ môi trường?[cite: 2]",
+    "options": ["A. Lá cây", "B. Rễ cây", "C. Thân cây", "D. Hoa và quả"],
+    "correctAnswer": 1
   },
   {
     "id": 33,
-    "question": "Tại sao cần phơi khô hạt trước khi cho vào kho bảo quản?",
-    "options": ["Để hạt trông đẹp hơn.", "Để giảm cường độ hô hấp tế bào, giúp hạt sống tiềm sinh lâu hơn.", "Để hạt nhanh chín hơn.", "Để tăng cường độ hô hấp tế bào."],
-    "correctAnswer": 1
+    "question": "Quá trình thoát hơi nước diễn ra chủ yếu ở bộ phận nào của cây?[cite: 2]",
+    "options": ["A. Rễ", "B. Thân", "C. Lá", "D. Quả"],
+    "correctAnswer": 2
   },
   {
     "id": 34,
-    "question": "Trong cơ thể người, hệ cơ quan có vai trò vận chuyển nước và chất dinh dưỡng đến các tế bào là:",
-    "options": ["Hệ hô hấp.", "Hệ tuần hoàn.", "Hệ bài tiết.", "Hệ thần kinh."],
-    "correctAnswer": 1
+    "question": "Vai trò của mạch gỗ trong thân cây là gì?[cite: 2]",
+    "options": ["A. Vận chuyển chất hữu cơ từ lá xuống rễ", "B. Dự trữ năng lượng cho cây", "C. Vận chuyển nước và khoáng từ rễ lên thân, lá", "D. Thực hiện quá trình quang hợp"],
+    "correctAnswer": 2
   },
   {
     "id": 35,
-    "question": "Mạch gỗ trong thân cây có chức năng chính là:",
-    "options": ["Vận chuyển chất hữu cơ từ lá xuống rễ.", "Vận chuyển nước và muối khoáng từ rễ lên lá.", "Thoát hơi nước cho cây.", "Hấp thụ ánh sáng mặt trời."],
-    "correctAnswer": 1
+    "question": "Vai trò của mạch rây trong cơ thể thực vật là:[cite: 2]",
+    "options": ["A. Hút nước từ đất", "B. Thoát hơi nước ra ngoài môi trường", "C. Vận chuyển chất hữu cơ từ lá đi nuôi các cơ quan khác", "D. Tổng hợp vitamin"],
+    "correctAnswer": 2
   },
   {
     "id": 36,
-    "question": "Phân tử nước có tính phân cực là do:",
-    "options": ["Nguyên tử Oxygen hút cặp electron dùng chung mạnh hơn nguyên tử Hydrogen.", "Nguyên tử Hydrogen hút cặp electron mạnh hơn Oxygen.", "Nước có khối lượng riêng lớn.", "Nước có thể tồn tại ở ba trạng thái."],
-    "correctAnswer": 0
+    "question": "Một trong những vai trò quan trọng của hiện tượng thoát hơi nước ở lá là:[cite: 2]",
+    "options": ["A. Tạo lực đẩy để rễ mọc dài ra", "B. Tạo động lực trên giúp kéo dòng nước từ rễ lên lá", "C. Giúp cây hô hấp tốt hơn", "D. Ngăn cản sự xâm nhập của vi khuẩn"],
+    "correctAnswer": 1
   },
   {
     "id": 37,
-    "question": "Nhóm thực phẩm nào sau đây cung cấp chủ yếu chất béo (lipid) cho cơ thể?",
-    "options": ["Cơm, bánh mì, khoai tây.", "Thịt nạc, trứng, sữa.", "Mỡ động vật, dầu thực vật, lạc.", "Rau xanh, trái cây."],
-    "correctAnswer": 2
+    "question": "Yếu tố nào sau đây KHÔNG phải là yếu tố chủ yếu ảnh hưởng đến trao đổi nước và chất dinh dưỡng ở thực vật?[cite: 2]",
+    "options": ["A. Ánh sáng", "B. Độ ẩm đất", "C. Nhiệt độ môi trường", "D. Tiếng ồn"],
+    "correctAnswer": 3
   },
   {
     "id": 38,
-    "question": "Cơ quan chủ yếu thực hiện chức năng thoát hơi nước ở thực vật là:",
-    "options": ["Rễ cây.", "Thân cây.", "Lá cây.", "Hoa."],
-    "correctAnswer": 2
+    "question": "Con đường đưa nước vào cơ thể động vật và người chủ yếu là qua đâu?[cite: 2]",
+    "options": ["A. Hô hấp qua da", "B. Ăn và uống", "C. Truyền trực tiếp qua tĩnh mạch", "D. Tắm rửa hàng ngày"],
+    "correctAnswer": 1
   },
   {
     "id": 39,
-    "question": "Để bảo vệ sức khỏe hệ tiêu hóa, chúng ta nên thực hiện biện pháp nào?",
-    "options": ["Ăn thật nhanh.", "Vừa ăn vừa xem điện thoại.", "Ăn chín, uống sôi và nhai kỹ.", "Ăn nhiều đồ cay nóng."],
-    "correctAnswer": 2
+    "question": "Nước thải ra khỏi cơ thể động vật và người thông qua các con đường nào?[cite: 2]",
+    "options": ["A. Bài tiết (nước tiểu), toát mồ hôi, hô hấp và qua phân", "B. Chỉ qua đường nước tiểu", "C. Chỉ qua toát mồ hôi", "D. Qua da và qua tóc"],
+    "correctAnswer": 0
   },
   {
     "id": 40,
-    "question": "Phát biểu nào sau đây chứng minh Trái Đất có từ trường?",
-    "options": ["Trái Đất có bầu khí quyển.", "Kim la bàn luôn tự do định hướng theo trục Bắc - Nam địa lý.", "Trái Đất quay quanh Mặt Trời.", "Mọi vật đều rơi xuống đất do trọng lực."],
+    "question": "Các cơ quan chính cấu tạo nên hệ tuần hoàn ở người bao gồm:[cite: 2]",
+    "options": ["A. Miệng, dạ dày, ruột non", "B. Phổi, khí quản, phế quản", "C. Tim và hệ mạch máu", "D. Thận, bàng quang, ống tiểu"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 41,
+    "question": "Vai trò chính của hệ tuần hoàn trong cơ thể động vật là gì?[cite: 2]",
+    "options": ["A. Lấy Oxygen từ không khí", "B. Tiêu hóa thức ăn thành chất dinh dưỡng", "C. Vận chuyển nước, chất dinh dưỡng, khí và mang chất thải đi", "D. Lọc máu để tạo nước tiểu"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 42,
+    "question": "Biện pháp nào dưới đây giúp bảo vệ sức khỏe hệ tiêu hóa ở người?[cite: 2]",
+    "options": ["A. Nhai kĩ thức ăn, ăn chín uống sôi", "B. Vừa ăn vừa chạy nhảy", "C. Ăn nhiều đồ cay nóng liên tục", "D. Nhịn ăn sáng thường xuyên"],
+    "correctAnswer": 0
+  },
+  {
+    "id": 43,
+    "question": "Ăn nhiều thức ăn nhanh (fast food), đồ chiên ngập dầu mỡ trong thời gian dài sẽ gây nguy hại lớn nhất cho hệ cơ quan nào?[cite: 2]",
+    "options": ["A. Hệ thần kinh", "B. Hệ tuần hoàn (tim mạch)", "C. Hệ hô hấp", "D. Hệ bài tiết"],
     "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "Hệ tuần hoàn làm nhiệm vụ vận chuyển chất dinh dưỡng từ cơ quan tiêu hóa đi khắp cơ thể. Chất dinh dưỡng này chủ yếu được hấp thụ vào máu tại cơ quan nào?[cite: 2]",
+    "options": ["A. Dạ dày", "B. Ruột non", "C. Ruột già", "D. Khoang miệng"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "question": "Khái niệm cảm ứng ở sinh vật được phát biểu như thế nào?[cite: 2]",
+    "options": ["A. Khả năng sinh sản tạo ra cá thể mới", "B. Sự lớn lên về kích thước và khối lượng", "C. Khả năng tiếp nhận và phản ứng lại các kích thích từ môi trường", "D. Sự tự phân chia của tế bào"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 46,
+    "question": "Vai trò của cảm ứng đối với sinh vật là gì?[cite: 2]",
+    "options": ["A. Giúp sinh vật luôn có kích thước khổng lồ", "B. Giúp sinh vật thích nghi để sinh tồn và phát triển", "C. Ngăn chặn sự sinh sản của sinh vật", "D. Giúp sinh vật sống không cần nước"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 47,
+    "question": "Làm thí nghiệm trồng cây trong hộp kín chỉ khoét một lỗ nhỏ cho ánh sáng lọt qua là nhằm chứng minh hiện tượng gì ở thực vật?[cite: 2]",
+    "options": ["A. Hướng nước", "B. Hướng tiếp xúc", "C. Hướng hóa", "D. Hướng sáng"],
+    "correctAnswer": 3
+  },
+  {
+    "id": 48,
+    "question": "Sự uốn cong của tua cuốn ở cây bầu, bí khi chạm vào giàn là ví dụ về:[cite: 2]",
+    "options": ["A. Hướng trọng lực", "B. Hướng sáng", "C. Hướng tiếp xúc", "D. Hướng nước"],
+    "correctAnswer": 2
+  },
+  {
+    "id": 49,
+    "question": "Rễ cây liễu trồng ven hồ thường phát triển mạnh hướng về phía có nước. Nhân tố kích thích trong trường hợp này là gì?[cite: 2]",
+    "options": ["A. Ánh sáng mặt trời", "B. Nước", "C. Nhiệt độ", "D. Lực hút trái đất"],
+    "correctAnswer": 1
+  },
+  {
+    "id": 50,
+    "question": "Trong thực tiễn, việc trồng các cây thân leo cạnh hàng rào hoặc cắm cọc cho cây quấn lên là đang ứng dụng tính cảm ứng nào của thực vật?[cite: 2]",
+    "options": ["A. Tính hướng nước", "B. Tính hướng sáng", "C. Tính hướng tiếp xúc", "D. Tính hướng hóa"],
+    "correctAnswer": 2
   }
 ]
