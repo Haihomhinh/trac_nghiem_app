@@ -465,10 +465,10 @@
     "id": 43,
     "question": "Đường đi của thức ăn trong ống tiêu hóa ở người theo thứ tự nào sau đây?",
     "options": [
-      "A. Miệng -> Thực quản -> Dạ dày -> Ruột non -> Ruột già -> Hậu môn",
-      "B. Miệng -> Dạ dày -> Thực quản -> Ruột già -> Ruột non -> Hậu môn",
-      "C. Miệng -> Ruột non -> Dạ dày -> Thực quản -> Hậu môn",
-      "D. Miệng -> Thực quản -> Ruột già -> Ruột non -> Dạ dày -> Hậu môn"
+      "A. Miệng -> Thực quản -> Dạ dày -> Ruột non -> Ruột già -> Hậu môn -> Trực tràng",
+      "B. Miệng -> Dạ dày -> Thực quản -> Ruột già -> Ruột non -> Trực tràng-> Hậu môn",
+      "C. Miệng -> Ruột non -> Dạ dày -> Thực quản -> Trực tràng -> Hậu môn",
+      "D. Miệng -> Thực quản -> Ruột già -> Ruột non -> Dạ dày -> Trực tràng -> Hậu môn"
     ],
     "correctAnswer": 0
   },
