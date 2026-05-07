@@ -1,302 +1,442 @@
 [
   {
     "id": 1,
-    "question": "Vùng không gian bao quanh một nam châm (hoặc dây dẫn mang dòng điện), mà vật liệu có tính chất từ đặt trong nó chịu tác dụng lực từ được gọi là:[cite: 2]",
-    "options": ["A. Điện trường", "B. Từ trường", "C. Trọng trường", "D. Quang trường"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 2,
-    "question": "Hình ảnh các đường sức từ trực quan được gọi là gì?[cite: 2]",
-    "options": ["A. Từ phổ", "B. Từ cực", "C. Từ lực", "D. Từ tính"],
-    "correctAnswer": 0
-  },
-  {
-    "id": 3,
-    "question": "Để tạo ra từ phổ của một nam châm trong phòng thí nghiệm, người ta có thể sử dụng dụng cụ nào sau đây?[cite: 2]",
-    "options": ["A. Mạt đồng và nam châm", "B. Mạt nhôm và nam châm", "C. Mạt sắt và nam châm", "D. Bột kẽm và nam châm"],
+    "question": "Không gian xung quanh nam châm tồn tại:",
+    "options": [
+      "A. trọng trường.",
+      "B. điện trường.",
+      "C. từ trường.",
+      "D. điện từ trường."
+    ],
     "correctAnswer": 2
   },
   {
+    "id": 2,
+    "question": "Ta nhận biết sự tồn tại của từ trường bằng dụng cụ nào?",
+    "options": [
+      "A. Ampe kế.",
+      "B. Kim nam châm có trục quay (nam châm thử).",
+      "C. Nhiệt kế.",
+      "D. Bút thử điện."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Hình ảnh các đường mạt sắt xung quanh nam châm được gọi là:",
+    "options": [
+      "A. từ phổ.",
+      "B. điện phổ.",
+      "C. quang phổ.",
+      "D. đường sức từ."
+    ],
+    "correctAnswer": 0
+  },
+  {
     "id": 4,
-    "question": "Khi đặt một vật liệu có tính chất từ vào bên trong từ trường, hiện tượng gì sẽ xảy ra?[cite: 2]",
-    "options": ["A. Bị đổi màu", "B. Bị nóng chảy", "C. Chịu tác dụng lực từ", "D. Phát ra ánh sáng"],
+    "question": "Quy ước về chiều của đường sức từ bên ngoài thanh nam châm là:",
+    "options": [
+      "A. vào cực Bắc, ra cực Nam.",
+      "B. có chiều tùy ý.",
+      "C. vào cực Nam, ra cực Bắc.",
+      "D. từ giữa thanh ra hai đầu cực."
+    ],
     "correctAnswer": 2
   },
   {
     "id": 5,
-    "question": "Dấu hiệu nào sau đây chứng tỏ không gian xung quanh một dây dẫn mang dòng điện có từ trường?[cite: 2]",
-    "options": ["A. Dây dẫn phát sáng", "B. Dây dẫn tỏa nhiệt", "C. Dây dẫn hút mẩu giấy vụn", "D. Dây dẫn tác dụng lực lên mạt sắt"],
+    "question": "Vì sao có thể nói rằng Trái Đất giống như một thanh nam châm khổng lồ?",
+    "options": [
+      "A. Vì Trái Đất hút tất cả các vật về phía nó.",
+      "B. Vì Trái Đất hút các vật bằng sắt về phía nó.",
+      "C. Vì Trái Đất hút các thanh nam châm về phía nó.",
+      "D. Vì mỗi cực của thanh nam châm tự do luôn hướng về mỗi cực của Trái Đất."
+    ],
     "correctAnswer": 3
   },
   {
     "id": 6,
-    "question": "Nơi nào trên thanh nam châm có từ trường mạnh nhất (dựa vào quan sát mật độ mạt sắt của từ phổ)?[cite: 2]",
-    "options": ["A. Ở giữa thanh nam châm", "B. Ở hai từ cực", "C. Cách đều hai từ cực", "D. Bên ngoài từ phổ"],
-    "correctAnswer": 1
+    "question": "Tại một điểm trên bàn làm việc, người ta thử đi thử lại vẫn thấy kim nam châm luôn nằm dọc theo một hướng xác định không trùng với hướng Bắc - Nam. Kết luận nào sau đây là đúng?",
+    "options": [
+      "A. Miền xung quanh nơi đặt kim nam châm tồn tại từ trường khác từ trường Trái Đất",
+      "B. Miền xung quanh nơi đặt kim nam châm tồn tại từ trường trùng với từ trường Trái Đất",
+      "C. Miền xung quanh nơi đặt kim nam châm không tồn tại từ trường",
+      "D. Không xác định được miền xung quanh nam châm nơi đặt kim nam châm có tồn tại từ trường hay không"
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 7,
-    "question": "Hiện tượng nào sau đây là bằng chứng chứng minh Trái Đất có từ trường?[cite: 2]",
-    "options": ["A. Mọi vật đều rơi xuống đất", "B. Kim nam châm tự do luôn chỉ hướng Bắc - Nam", "C. Trái Đất quay quanh Mặt Trời", "D. Có sự luân phiên ngày và đêm"],
-    "correctAnswer": 1
+    "question": "Nếu đặt 1 kim nam châm trên Trái Đất thì cực Bắc (N) sẽ hướng về cực địa lý nào?",
+    "options": [
+      "A. Cực Nam.",
+      "B. Không hướng cố định vào cực nào.",
+      "C. Cực Bắc.",
+      "D. Không đủ thông tin để kết luận."
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 8,
-    "question": "La bàn là dụng cụ được sử dụng chủ yếu để làm gì?[cite: 2]",
-    "options": ["A. Đo nhiệt độ", "B. Đo áp suất", "C. Xác định phương hướng", "D. Đo độ ẩm"],
+    "question": "Sắp xếp các bước theo đúng thứ tự thực hiện sử dụng la bàn xác định hướng địa lí? (1) Đọc giá trị của góc tạo bởi hướng cần xác định so với hướng bắc. (2) Đặt la bàn cách xa nam châm và các vật liệu có tính chất từ. (3) Giữ la bàn nằm ngang, xoay vỏ để kim đỏ chỉ hướng Bắc trùng khít vạch N.",
+    "options": [
+      "A. (1) – (2) – (3).",
+      "B. (2) – (1) – (3).",
+      "C. (2) – (3) – (1).",
+      "D. (1) – (3) – (2)."
+    ],
     "correctAnswer": 2
   },
   {
     "id": 9,
-    "question": "Bộ phận cốt lõi của một chiếc la bàn giúp nó có thể hoạt động là:[cite: 2]",
-    "options": ["A. Vỏ hộp", "B. Kim nam châm", "C. Mặt kính", "D. Vòng chia độ"],
-    "correctAnswer": 1
+    "question": "Sản phẩm của quá trình quang hợp gồm:",
+    "options": [
+      "A. nước, carbon dioxide.",
+      "B. ánh sáng, diệp lục.",
+      "C. oxygen, glucose.",
+      "D. glucose, nước."
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 10,
-    "question": "Khi sử dụng la bàn để tìm hướng, ta KHÔNG nên đặt la bàn gần vật nào sau đây để tránh sai số?[cite: 2]",
-    "options": ["A. Khối gỗ", "B. Cốc nước", "C. Quyển vở", "D. Thanh nam châm"],
-    "correctAnswer": 3
+    "question": "Bào quan thực hiện quá trình quang hợp ở tế bào lá cây là:",
+    "options": [
+      "A. ti thể.",
+      "B. lục lạp.",
+      "C. không bào.",
+      "D. nhân tế bào."
+    ],
+    "correctAnswer": 1
   },
   {
     "id": 11,
-    "question": "Vì sao kim la bàn luôn chỉ theo một hướng xác định?[cite: 2]",
-    "options": ["A. Nhờ lực hút của Mặt Trăng", "B. Nhờ lực hút của Trái Đất", "C. Chịu tác dụng từ trường của Trái Đất", "D. Chịu sức đẩy của gió"],
-    "correctAnswer": 2
+    "question": "Các yếu tố chủ yếu ảnh hưởng đến quang hợp bao gồm:",
+    "options": [
+      "A. ánh sáng, nồng độ khí carbon dioxide, nước, nhiệt độ.",
+      "B. ánh sáng, khí oxygen, nồng độ muối, gió.",
+      "C. nhiệt độ, khí nitơ, độ ẩm không khí.",
+      "D. nước, khí oxygen, độ pH của đất."
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 12,
-    "question": "Nếu đặt la bàn tại xích đạo, kim la bàn sẽ định hướng như thế nào so với các đường sức từ của Trái Đất?[cite: 2]",
-    "options": ["A. Nằm dọc theo đường sức từ", "B. Vuông góc với đường sức từ", "C. Quay tròn liên tục", "D. Chĩa thẳng đứng xuống đất"],
-    "correctAnswer": 0
+    "question": "Tại sao trong nông nghiệp người ta thường trồng cây với mật độ phù hợp?",
+    "options": [
+      "A. Để tiết kiệm giống cây trồng.",
+      "B. Để cây không bị đổ khi có gió lớn.",
+      "C. Để đảm bảo cây nhận đủ ánh sáng và không khí cho quang hợp.",
+      "D. Để thuận tiện cho việc thu hoạch."
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 13,
-    "question": "Đặc điểm cấu tạo nào của phiến lá giúp nó nhận được nhiều ánh sáng nhất phục vụ cho quang hợp?[cite: 2]",
-    "options": ["A. Có nhiều gân lá", "B. Dạng bản mỏng, diện tích bề mặt lớn", "C. Phân bố nhiều lỗ khí", "D. Có cuống lá dài"],
-    "correctAnswer": 1
+    "question": "Trong quá trình hô hấp tế bào, chất hữu cơ bị phân giải thành sản phẩm cuối cùng là:",
+    "options": [
+      "A. oxygen và nước.",
+      "B. carbon dioxide và oxygen.",
+      "C. oxygen và nitrogen.",
+      "D. carbon dioxide và nước."
+    ],
+    "correctAnswer": 3
   },
   {
     "id": 14,
-    "question": "Những yếu tố chủ yếu nào ảnh hưởng đến quá trình quang hợp ở thực vật?[cite: 2]",
-    "options": ["A. Ánh sáng, nước, nồng độ CO2, nhiệt độ", "B. Ánh sáng, O2, nhiệt độ, độ ẩm", "C. Gió, nhiệt độ, nồng độ O2", "D. Khí N2, độ ẩm đất, ánh sáng"],
-    "correctAnswer": 0
+    "question": "Hô hấp là quá trình phân giải các chất hữu cơ nhằm:",
+    "options": [
+      "A. thải CO2 trong cơ thể ra ngoài môi trường.",
+      "B. tiêu thụ bớt chất hữu cơ dự trữ.",
+      "C. cung cấp năng lượng cho các hoạt động sống cho tế bào và cơ thể.",
+      "D. cả A, B và C."
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 15,
-    "question": "Trong quang hợp, cấu tạo nào của lá thực hiện chức năng chính là trao đổi khí và thoát hơi nước?[cite: 2]",
-    "options": ["A. Biểu bì", "B. Gân lá", "C. Khí khổng (lỗ khí)", "D. Cuống lá"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 16,
-    "question": "Nước có vai trò gì trong quá trình quang hợp của thực vật?[cite: 2]",
-    "options": ["A. Là sản phẩm thải ra", "B. Là nguồn cung cấp năng lượng", "C. Là nguyên liệu tham gia quang hợp", "D. Là chất xúc tác"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 17,
-    "question": "Vào buổi trưa hè nắng gắt, cường độ ánh sáng quá mạnh làm khí khổng đóng lại, quá trình quang hợp lúc này sẽ:[cite: 2]",
-    "options": ["A. Tăng mạnh mẽ", "B. Giảm hoặc ngừng trệ", "C. Không bị ảnh hưởng", "D. Đạt mức cực đại"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 18,
-    "question": "Khí nào sau đây là nguyên liệu mà lá cây cần hấp thụ để tiến hành quang hợp?[cite: 2]",
-    "options": ["A. Oxygen", "B. Nitrogen", "C. Carbon dioxide", "D. Hydrogen"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 19,
-    "question": "Quá trình hô hấp tế bào sử dụng nguyên liệu chính là những chất nào?[cite: 2]",
-    "options": ["A. Oxygen và nước", "B. Năng lượng và khí Carbon dioxide", "C. Các chất hữu cơ (chủ yếu là Glucose) và Oxygen", "D. Nước và Carbon dioxide"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 20,
-    "question": "Sản phẩm được tạo ra từ quá trình hô hấp tế bào là gì?[cite: 2]",
-    "options": ["A. Năng lượng (ATP), Carbon dioxide và Nước", "B. Glucose và Oxygen", "C. Chất hữu cơ và khí O2", "D. Năng lượng, Glucose và Nước"],
+    "question": "Sau khi thu hoạch ngũ cốc, người ta thường sử dụng phương pháp nào để bảo quản?",
+    "options": [
+      "A. Bảo quản khô.",
+      "B. Bảo quản nóng.",
+      "C. Bảo quản ở điều kiện khí oxygen cao.",
+      "D. Bảo quản ở điều kiện khí carbon dioxide thấp."
+    ],
     "correctAnswer": 0
   },
   {
+    "id": 16,
+    "question": "Nhóm nông sản nào sau đây nên được bảo quản bằng cách để trong túi nilon kín hoặc đục lỗ và bảo quản trong ngăn mát tủ lạnh?",
+    "options": [
+      "A. Hạt lúa, hạt đỗ, hạt lạc.",
+      "B. Rau muống, cà chua, bắp cải.",
+      "C. Hạt lạc, hạt lúa, dưa chuột.",
+      "D. Hạt đỗ, rau muống, khoai tây."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "Ở thực vật, bộ phận chính thực hiện chức năng hút nước và muối khoáng là:",
+    "options": [
+      "A. Thân cây.",
+      "B. Lá cây.",
+      "C. Lông hút của rễ.",
+      "D. Hoa và quả."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "question": "Mạch rây có chức năng vận chuyển chất nào sau đây?",
+    "options": [
+      "A. Nước và muối khoáng từ rễ lên lá.",
+      "B. Chất hữu cơ tổng hợp từ lá đến các cơ quan khác.",
+      "C. Khí oxygen từ môi trường vào thân cây.",
+      "D. Khí carbon dioxide từ lá ra ngoài."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 19,
+    "question": "Nhóm chất nào sau đây cung cấp năng lượng cho cơ thể động vật?",
+    "options": [
+      "A. Carbohydrate, lipid và protein.",
+      "B. Carbohydrate, vitamin và protein.",
+      "C. Protein, vitamin, muối khoáng.",
+      "D. Lipid, protein, muối khoáng."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "question": "Chất dinh dưỡng nào sau đây có vai trò tham gia cấu tạo tế bào, cung cấp năng lượng cho cơ thể động vật?",
+    "options": [
+      "A. Lipid.",
+      "B. Protein.",
+      "C. Carbohydrate.",
+      "D. Vitamin."
+    ],
+    "correctAnswer": 1
+  },
+  {
     "id": 21,
-    "question": "Để bảo quản hạt giống ngũ cốc (như thóc, ngô) trong thời gian dài, người ta thường ứng dụng kiến thức về hô hấp tế bào bằng cách nào?[cite: 2]",
-    "options": ["A. Ngâm hạt vào nước ấm", "B. Phơi khô hạt để giảm lượng nước", "C. Ủ kín hạt ở nhiệt độ cao", "D. Chiếu ánh sáng mạnh liên tục"],
+    "question": "Nước có thể làm dung môi hòa tan nhiều chất là nhờ:",
+    "options": [
+      "A. tính dẫn nhiệt của nước.",
+      "B. tính phân cực của nước.",
+      "C. tính dẫn điện của nước.",
+      "D. tính chất lỏng của nước."
+    ],
     "correctAnswer": 1
   },
   {
     "id": 22,
-    "question": "Tại sao việc phơi khô hạt lại có tác dụng bảo quản nông sản hiệu quả?[cite: 2]",
-    "options": ["A. Làm hạt cứng hơn", "B. Loại bỏ hoàn toàn vi khuẩn", "C. Giảm hàm lượng nước, qua đó ức chế quá trình hô hấp tế bào", "D. Thúc đẩy hạt hô hấp mạnh hơn"],
-    "correctAnswer": 2
+    "question": "Khi nói về tính chất của nước, phát biểu nào sau đây sai?",
+    "options": [
+      "A. Nước là dung môi có khả năng hòa tan tất cả các chất rắn, lỏng, khí.",
+      "B. Nước là chất lỏng hình dạng không xác định, không màu, không mùi, không vị.",
+      "C. Nước có tính chất dẫn điện và dẫn nhiệt, sôi ở 100°C, đông đặc ở 0°C.",
+      "D. Nước có tính chất phân cực nên các phân tử nước hút lẫn nhau và hút các phân tử phân cực khác."
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 23,
-    "question": "Ngoài phơi khô, người ta còn sử dụng biện pháp nào sau đây để làm giảm cường độ hô hấp tế bào nhằm bảo quản rau củ tươi?[cite: 2]",
-    "options": ["A. Đun sôi", "B. Bảo quản lạnh", "C. Tưới nhiều nước", "D. Bọc trong giấy báo phơi ngoài nắng"],
-    "correctAnswer": 1
+    "question": "Quan sát hình cấu trúc phân tử nước, phát biểu nào sau đây đúng?",
+    "options": [
+      "A. Mỗi phân tử nước gồm một nguyên tử Oxygen liên kết với hai nguyên tử Hydrogen bằng liên kết cộng hóa trị.",
+      "B. Mỗi phân tử nước gồm nguyên tử Oxygen và nguyên tử Hydrogen liên kết với nhau bằng liên kết cộng hóa trị.",
+      "C. Mỗi phân tử nước gồm hai nguyên tử Hydrogen liên kết với nhau và liên kết với một nguyên tử Oxygen bằng liên kết hóa trị.",
+      "D. Mỗi phân tử nước gồm một nguyên tử Hydrogen liên kết với hai nguyên tử Oxygen bằng liên kết cộng hóa trị."
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 24,
-    "question": "Giữa hô hấp tế bào và quang hợp có mối liên hệ như thế nào?[cite: 2]",
-    "options": ["A. Là hai quá trình độc lập không liên quan", "B. Sản phẩm của quang hợp là nguyên liệu của hô hấp và ngược lại", "C. Đều phân giải chất hữu cơ giải phóng năng lượng", "D. Đều chỉ xảy ra ở tế bào động vật"],
-    "correctAnswer": 1
+    "question": "Câu nào sau đây không thể hiện vai trò của nước đối với cơ thể sinh vật?",
+    "options": [
+      "A. Cung cấp năng lượng cho cơ thể sinh vật.",
+      "B. Điều hòa nhiệt độ cơ thể sinh vật.",
+      "C. Dung môi hòa tan, vận chuyển các chất.",
+      "D. Nguyên liệu và môi trường của các phản ứng chuyển hóa."
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 25,
-    "question": "Nước có vai trò gì quan trọng đối với cơ thể sinh vật?[cite: 2]",
-    "options": ["A. Cung cấp năng lượng trực tiếp", "B. Là dung môi hòa tan chất, môi trường phản ứng và điều hòa thân nhiệt", "C. Chỉ dùng để cấu tạo nên xương sọ", "D. Cung cấp vitamin thiết yếu"],
-    "correctAnswer": 1
+    "question": "Nhóm chất nào sau đây không cung cấp năng lượng nhưng rất cần thiết cho cơ thể động vật?",
+    "options": [
+      "A. Vitamin và muối khoáng.",
+      "B. Carbohydrate và vitamin.",
+      "C. Protein và muối khoáng.",
+      "D. Lipid và protein."
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 26,
-    "question": "Thành phần hoá học của phân tử nước gồm:[cite: 2]",
-    "options": ["A. 1 nguyên tử Hydrogen và 2 nguyên tử Oxygen", "B. 2 nguyên tử Hydrogen và 1 nguyên tử Oxygen", "C. 2 nguyên tử Hydrogen và 2 nguyên tử Oxygen", "D. Chỉ có 2 nguyên tử Oxygen"],
-    "correctAnswer": 1
+    "question": "Quan sát hình cấu trúc mạch trong cây, chọn đáp án đúng:",
+    "options": [
+      "A. (1) – mạch rây; (2) - mạch gỗ.",
+      "B. (1) và (2) đều là mạch gỗ.",
+      "C. (1) – mạch gỗ; (2) - mạch rây.",
+      "D. (1) và (2) đều là mạch rây."
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 27,
-    "question": "Tính chất cấu trúc nào của phân tử nước giúp nó trở thành dung môi tuyệt vời?[cite: 2]",
-    "options": ["A. Tính bay hơi", "B. Tính phân cực", "C. Kích thước phân tử lớn", "D. Không có điện tích"],
+    "question": "Quan sát hình dòng mạch gỗ và mạch rây, chọn đáp án đúng:",
+    "options": [
+      "A. Mạch gỗ vận chuyển chất hữu cơ từ trên xuống.",
+      "B. Mạch gỗ vận nước và muối khoáng từ dưới lên trên.",
+      "C. Mạch rây vận chuyển chất hữu cơ từ dưới lên trên.",
+      "D. Mạch rây vận chuyển nước và mối khoáng từ trên xuống."
+    ],
     "correctAnswer": 1
   },
   {
     "id": 28,
-    "question": "Những nhóm chất dinh dưỡng nào sau đây cần thiết cho cơ thể sinh vật?[cite: 2]",
-    "options": ["A. Carbohydrate, Lipid, Protein, Vitamin và khoáng chất", "B. Khí Oxygen, Carbon dioxide, Nitrogen", "C. Nước, đất, ánh sáng, nhiệt độ", "D. Tinh bột, nhựa cây, cellulose"],
+    "question": "Cho các nhận định về vai trò của nước như sau: 1. Là thành phần cấu tạo chủ yếu; 2. Là nguyên liệu quang hợp; 3. Là dung môi hòa tan; 4. Vận chuyển chất và điều hòa thân nhiệt. Số nhận định đúng là:",
+    "options": [
+      "A. 4.",
+      "B. 3.",
+      "C. 2.",
+      "D. 1."
+    ],
     "correctAnswer": 0
   },
   {
     "id": 29,
-    "question": "Loại thực phẩm nào dưới đây cung cấp chủ yếu chất đạm (Protein) cho cơ thể?[cite: 2]",
-    "options": ["A. Cơm, bánh mì", "B. Thịt nạc, cá, trứng", "C. Rau xanh, hoa quả tươi", "D. Mỡ lợn, dầu dừa"],
-    "correctAnswer": 1
+    "question": "Khi nói về quá trình vận chuyển các chất trong cây, phát biểu nào sau đây đúng?",
+    "options": [
+      "A. mạch gỗ vận chuyển các chất từ rễ lên lá, mạch rây thì vận chuyển các chất từ lá xuống rễ.",
+      "B. vận chuyển trong mạch gỗ là chủ động và vận chuyển trong mạch rây là bị động.",
+      "C. dòng mạch gỗ luôn vận chuyển chất vô cơ, dòng mạch rây luôn vận chuyển chất hữu cơ.",
+      "D. mạch gỗ vận chuyển đường glucose, mạch rây thì vận chuyển chất hữu cơ khác."
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 30,
-    "question": "Để cung cấp đầy đủ chất dinh dưỡng, tại sao chúng ta phải đa dạng các loại thức ăn?[cite: 2]",
-    "options": ["A. Vì thức ăn ngon hơn", "B. Không có một loại thức ăn nào chứa đủ mọi dưỡng chất cần thiết với tỉ lệ phù hợp", "C. Để ăn được nhiều hơn", "D. Để tránh bị ngộ độc thực phẩm"],
-    "correctAnswer": 1
+    "question": "Con đường vận chuyển các chất trong ống tiêu hóa của người có trình tự như thế nào?",
+    "options": [
+      "A. Miệng → thực quản → dạ dày → ruột non → ruột già → trực tràng → hậu môn.",
+      "B. Miệng → thực quản → dạ dày → ruột non → trực tràng → ruột già → hậu môn.",
+      "C. Miệng → dạ dày → thực quản → ruột non → ruột già → trực tràng → hậu môn.",
+      "D. Miệng → thực quản → ruột non → dạ dày → ruột già → trực tràng → hậu môn."
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 31,
-    "question": "Tính phân cực của phân tử nước biểu hiện ở điểm nào?[cite: 2]",
-    "options": ["A. Đầu mang nguyên tử O mang điện tích âm, phía nguyên tử H mang điện tích dương", "B. Cả 2 đầu phân tử đều mang điện dương", "C. Phân tử nước hoàn toàn trung hòa, không có cực", "D. Đầu O mang điện dương, đầu H mang điện âm"],
+    "question": "Nước trong cơ thể con người có thể bị mất đi qua những hoạt động nào?",
+    "options": [
+      "A. Hô hấp, thoát hơi nước qua da, toát mồ hôi, bài tiết nước tiểu và phân.",
+      "B. Hô hấp.",
+      "C. Bài tiết nước tiểu và phân.",
+      "D. Qua da."
+    ],
     "correctAnswer": 0
   },
   {
     "id": 32,
-    "question": "Ở thực vật, cơ quan nào đóng vai trò chủ yếu trong việc hấp thụ nước và chất khoáng từ môi trường?[cite: 2]",
-    "options": ["A. Lá cây", "B. Rễ cây", "C. Thân cây", "D. Hoa và quả"],
-    "correctAnswer": 1
+    "question": "Để bảo vệ hệ tiêu hóa khỏe mạnh, chúng ta nên:",
+    "options": [
+      "A. Ăn quá no vào buổi tối.",
+      "B. Ăn thức ăn lề đường không rõ nguồn gốc.",
+      "C. Ăn chín, uống sôi và nhai kĩ.",
+      "D. Thường xuyên uống nước có ga."
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 33,
-    "question": "Quá trình thoát hơi nước diễn ra chủ yếu ở bộ phận nào của cây?[cite: 2]",
-    "options": ["A. Rễ", "B. Thân", "C. Lá", "D. Quả"],
-    "correctAnswer": 2
+    "question": "Vì sao mỗi người cần phải có chế độ dinh dưỡng phù hợp?",
+    "options": [
+      "A. Vì nhu cầu dinh dưỡng của mỗi người là khác nhau tuỳ thuộc vào độ tuổi, giới tính, trạng thái sinh lí.",
+      "B. Vì mỗi người có mức sống khác nhau.",
+      "C. Vì thói quen ăn uống của khác nhau của mỗi người.",
+      "D. Do văn hoá vùng miền nên chế độ dinh dưỡng cũng không giống nhau."
+    ],
+    "correctAnswer": 0
   },
   {
     "id": 34,
-    "question": "Vai trò của mạch gỗ trong thân cây là gì?[cite: 2]",
-    "options": ["A. Vận chuyển chất hữu cơ từ lá xuống rễ", "B. Dự trữ năng lượng cho cây", "C. Vận chuyển nước và khoáng từ rễ lên thân, lá", "D. Thực hiện quá trình quang hợp"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 35,
-    "question": "Vai trò của mạch rây trong cơ thể thực vật là:[cite: 2]",
-    "options": ["A. Hút nước từ đất", "B. Thoát hơi nước ra ngoài môi trường", "C. Vận chuyển chất hữu cơ từ lá đi nuôi các cơ quan khác", "D. Tổng hợp vitamin"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 36,
-    "question": "Một trong những vai trò quan trọng của hiện tượng thoát hơi nước ở lá là:[cite: 2]",
-    "options": ["A. Tạo lực đẩy để rễ mọc dài ra", "B. Tạo động lực trên giúp kéo dòng nước từ rễ lên lá", "C. Giúp cây hô hấp tốt hơn", "D. Ngăn cản sự xâm nhập của vi khuẩn"],
+    "question": "Cảm ứng ở sinh vật là:",
+    "options": [
+      "A. sự thay đổi hình dạng của cơ thể.",
+      "B. phản ứng của sinh vật trả lời các kích thích từ môi trường.",
+      "C. quá trình lớn lên của cơ thể.",
+      "D. sự di chuyển của sinh vật từ nơi này sang nơi khác."
+    ],
     "correctAnswer": 1
   },
   {
+    "id": 35,
+    "question": "Ví dụ nào sau đây là hiện tượng cảm ứng ở thực vật?",
+    "options": [
+      "A. Cây lớn lên theo thời gian.",
+      "B. Lá cây trinh nữ khép lại khi có vật chạm vào.",
+      "C. Cây hô hấp vào ban đêm.",
+      "D. Cây ra hoa và kết quả."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "Cảm ứng giúp sinh vật:",
+    "options": [
+      "A. tồn tại và thích nghi với môi trường sống.",
+      "B. thay đổi cấu trúc di truyền.",
+      "C. ngừng trao đổi chất khi môi trường khắc nghiệt.",
+      "D. tăng tốc độ hô hấp tế bào."
+    ],
+    "correctAnswer": 0
+  },
+  {
     "id": 37,
-    "question": "Yếu tố nào sau đây KHÔNG phải là yếu tố chủ yếu ảnh hưởng đến trao đổi nước và chất dinh dưỡng ở thực vật?[cite: 2]",
-    "options": ["A. Ánh sáng", "B. Độ ẩm đất", "C. Nhiệt độ môi trường", "D. Tiếng ồn"],
-    "correctAnswer": 3
+    "question": "Khi làm thí nghiệm đặt một chậu cây trong hộp kín có một lỗ thủng bên sườn, sau một thời gian ngọn cây sẽ:",
+    "options": [
+      "A. Mọc thẳng đứng lên trên.",
+      "B. Mọc hướng về phía lỗ thủng có ánh sáng.",
+      "C. Mọc lùi lại phía sau.",
+      "D. Ngừng sinh trưởng."
+    ],
+    "correctAnswer": 1
   },
   {
     "id": 38,
-    "question": "Con đường đưa nước vào cơ thể động vật và người chủ yếu là qua đâu?[cite: 2]",
-    "options": ["A. Hô hấp qua da", "B. Ăn và uống", "C. Truyền trực tiếp qua tĩnh mạch", "D. Tắm rửa hàng ngày"],
+    "question": "Trong thí nghiệm chứng minh tính hướng nước, người ta thường đặt nguồn nước ở một phía của rễ để quan sát:",
+    "options": [
+      "A. Rễ cây bị héo đi.",
+      "B. Rễ cây mọc hướng về phía có nguồn nước.",
+      "C. Rễ cây mọc tránh xa nguồn nước.",
+      "D. Thân cây mọc nhanh hơn."
+    ],
     "correctAnswer": 1
   },
   {
     "id": 39,
-    "question": "Nước thải ra khỏi cơ thể động vật và người thông qua các con đường nào?[cite: 2]",
-    "options": ["A. Bài tiết (nước tiểu), toát mồ hôi, hô hấp và qua phân", "B. Chỉ qua đường nước tiểu", "C. Chỉ qua toát mồ hôi", "D. Qua da và qua tóc"],
-    "correctAnswer": 0
+    "question": "Các hoạt động nào sau đây giúp bảo vệ hệ tiêu hoá khoẻ mạnh? (1) Rửa tay trước ăn; (2) Ăn chín uống sôi; (3) Ăn tái; (4) Không ăn đồ ôi thiu; (5) Vừa ăn vừa xem TV; (6) Ăn tối muộn.",
+    "options": [
+      "A. (1), (2), (3), (4), (5), (6).",
+      "B. (1), (2), (3), (5), (6).",
+      "C. (1), (2), (4).",
+      "D. (1), (2), (5), (6)."
+    ],
+    "correctAnswer": 2
   },
   {
     "id": 40,
-    "question": "Các cơ quan chính cấu tạo nên hệ tuần hoàn ở người bao gồm:[cite: 2]",
-    "options": ["A. Miệng, dạ dày, ruột non", "B. Phổi, khí quản, phế quản", "C. Tim và hệ mạch máu", "D. Thận, bàng quang, ống tiểu"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 41,
-    "question": "Vai trò chính của hệ tuần hoàn trong cơ thể động vật là gì?[cite: 2]",
-    "options": ["A. Lấy Oxygen từ không khí", "B. Tiêu hóa thức ăn thành chất dinh dưỡng", "C. Vận chuyển nước, chất dinh dưỡng, khí và mang chất thải đi", "D. Lọc máu để tạo nước tiểu"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 42,
-    "question": "Biện pháp nào dưới đây giúp bảo vệ sức khỏe hệ tiêu hóa ở người?[cite: 2]",
-    "options": ["A. Nhai kĩ thức ăn, ăn chín uống sôi", "B. Vừa ăn vừa chạy nhảy", "C. Ăn nhiều đồ cay nóng liên tục", "D. Nhịn ăn sáng thường xuyên"],
-    "correctAnswer": 0
-  },
-  {
-    "id": 43,
-    "question": "Ăn nhiều thức ăn nhanh (fast food), đồ chiên ngập dầu mỡ trong thời gian dài sẽ gây nguy hại lớn nhất cho hệ cơ quan nào?[cite: 2]",
-    "options": ["A. Hệ thần kinh", "B. Hệ tuần hoàn (tim mạch)", "C. Hệ hô hấp", "D. Hệ bài tiết"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 44,
-    "question": "Hệ tuần hoàn làm nhiệm vụ vận chuyển chất dinh dưỡng từ cơ quan tiêu hóa đi khắp cơ thể. Chất dinh dưỡng này chủ yếu được hấp thụ vào máu tại cơ quan nào?[cite: 2]",
-    "options": ["A. Dạ dày", "B. Ruột non", "C. Ruột già", "D. Khoang miệng"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 45,
-    "question": "Khái niệm cảm ứng ở sinh vật được phát biểu như thế nào?[cite: 2]",
-    "options": ["A. Khả năng sinh sản tạo ra cá thể mới", "B. Sự lớn lên về kích thước và khối lượng", "C. Khả năng tiếp nhận và phản ứng lại các kích thích từ môi trường", "D. Sự tự phân chia của tế bào"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 46,
-    "question": "Vai trò của cảm ứng đối với sinh vật là gì?[cite: 2]",
-    "options": ["A. Giúp sinh vật luôn có kích thước khổng lồ", "B. Giúp sinh vật thích nghi để sinh tồn và phát triển", "C. Ngăn chặn sự sinh sản của sinh vật", "D. Giúp sinh vật sống không cần nước"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 47,
-    "question": "Làm thí nghiệm trồng cây trong hộp kín chỉ khoét một lỗ nhỏ cho ánh sáng lọt qua là nhằm chứng minh hiện tượng gì ở thực vật?[cite: 2]",
-    "options": ["A. Hướng nước", "B. Hướng tiếp xúc", "C. Hướng hóa", "D. Hướng sáng"],
+    "question": "Hệ cơ quan đảm nhận chức năng vận chuyển các chất dinh dưỡng trong cơ thể động vật là:",
+    "options": [
+      "A. hệ hô hấp",
+      "B. hệ bài tiết",
+      "C. hệ tiêu hóa",
+      "D. hệ tuần hoàn"
+    ],
     "correctAnswer": 3
-  },
-  {
-    "id": 48,
-    "question": "Sự uốn cong của tua cuốn ở cây bầu, bí khi chạm vào giàn là ví dụ về:[cite: 2]",
-    "options": ["A. Hướng trọng lực", "B. Hướng sáng", "C. Hướng tiếp xúc", "D. Hướng nước"],
-    "correctAnswer": 2
-  },
-  {
-    "id": 49,
-    "question": "Rễ cây liễu trồng ven hồ thường phát triển mạnh hướng về phía có nước. Nhân tố kích thích trong trường hợp này là gì?[cite: 2]",
-    "options": ["A. Ánh sáng mặt trời", "B. Nước", "C. Nhiệt độ", "D. Lực hút trái đất"],
-    "correctAnswer": 1
-  },
-  {
-    "id": 50,
-    "question": "Trong thực tiễn, việc trồng các cây thân leo cạnh hàng rào hoặc cắm cọc cho cây quấn lên là đang ứng dụng tính cảm ứng nào của thực vật?[cite: 2]",
-    "options": ["A. Tính hướng nước", "B. Tính hướng sáng", "C. Tính hướng tiếp xúc", "D. Tính hướng hóa"],
-    "correctAnswer": 2
   }
 ]
