@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import quizData from './data/khtn7_40.json'; 
+import quizData from './data/data_JSON.json'; 
 
 // Hàm dùng để xáo trộn đáp án và cập nhật lại correctAnswer
 const shuffleOptionsForQuiz = (data) => {

@@ -1,0 +1,1652 @@
+[
+  {
+    "id": 1,
+    "question": "Thuật ngữ 'Kinh tế chính trị' lần đầu tiên xuất hiện vào năm nào?",
+    "options": [
+      "A. Năm 1615",
+      "B. Năm 1764",
+      "C. Năm 1848",
+      "D. Năm 1776"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 2,
+    "question": "Ai là người đầu tiên đưa ra thuật ngữ 'Kinh tế chính trị' trong tác phẩm của mình?",
+    "options": [
+      "A. A. Smith",
+      "B. A. Montchretien",
+      "C. C. Mác",
+      "D. Ph. Ăngghen"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Hệ thống lý luận kinh tế chính trị đầu tiên nghiên cứu về nền sản xuất tư bản chủ nghĩa là gì?",
+    "options": [
+      "A. Chủ nghĩa Trọng nông",
+      "B. Kinh tế chính trị cổ điển Anh",
+      "C. Chủ nghĩa Trọng thương",
+      "D. Kinh tế chính trị Mác - Lênin"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "question": "Giai đoạn lịch sử nào gắn liền với sự hình thành của Chủ nghĩa Trọng thương?",
+    "options": [
+      "A. Thế kỷ XV - XVII",
+      "B. Thế kỷ XVIII",
+      "C. Thế kỷ XVII - XIX",
+      "D. Đầu thế kỷ XX"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 5,
+    "question": "Hệ thống lý luận nào nhấn mạnh vai trò của sản xuất nông nghiệp, coi trọng sở hữu tư nhân và tự do kinh tế?",
+    "options": [
+      "A. Chủ nghĩa Trọng thương",
+      "B. Chủ nghĩa Trọng nông",
+      "C. Kinh tế chính trị cổ điển Anh",
+      "D. Kinh tế chính trị Mác - Lênin"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "question": "Chủ nghĩa Trọng nông hình thành và phát triển vào giai đoạn nào?",
+    "options": [
+      "A. Thế kỷ XV",
+      "B. Thế kỷ XVII",
+      "C. Thế kỷ XVIII",
+      "D. Thế kỷ XIX"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "question": "Kinh tế chính trị cổ điển Anh là hệ thống nghiên cứu các phạm trù, quy luật của mô hình kinh tế nào?",
+    "options": [
+      "A. Nền kinh tế tự nhiên tự cấp tự túc",
+      "B. Nền kinh tế thị trường trong chủ nghĩa tư bản",
+      "C. Nền kinh tế kế hoạch hóa tập trung",
+      "D. Nền kinh tế phong kiến đóng cửa"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 8,
+    "question": "Hệ thống lý luận kinh tế chính trị cổ điển Anh phát triển trong khoảng thời gian nào?",
+    "options": [
+      "A. Thế kỷ XV - XVII",
+      "B. Thế kỷ XVII - XIX",
+      "C. Thế kỷ XVIII - XX",
+      "D. Thế kỷ XIX - XXI"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "question": "Kinh tế chính trị Mác - Lênin kế thừa và phát triển trực tiếp những giá trị khoa học của hệ thống nào?",
+    "options": [
+      "A. Chủ nghĩa Trọng thương",
+      "B. Chủ nghĩa Trọng nông",
+      "C. Kinh tế chính trị cổ điển Anh",
+      "D. Kinh tế chính trị tầm thường"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 10,
+    "question": "Theo định nghĩa tổng quát của Ph.Ăngghen, Kinh tế chính trị là môn khoa học nghiên cứu về vấn đề gì?",
+    "options": [
+      "A. Cách thức quản trị dòng tiền của cá nhân",
+      "B. Những quy luật chi phối hoạt động kinh tế của xã hội loài người",
+      "C. Các biện pháp tăng thuế của Chính phủ",
+      "D. Cách thức vận hành của một doanh nghiệp độc quyền"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "question": "Đối tượng nghiên cứu của Kinh tế chính trị Mác - Lênin là gì?",
+    "options": [
+      "A. Lực lượng sản xuất thuần túy",
+      "B. Kiến trúc thượng tầng độc lập",
+      "C. Quan hệ sản xuất trong mối quan hệ biện chứng với lực lượng sản xuất và kiến trúc thượng tầng",
+      "D. Các công nghệ kỹ thuật số hiện đại"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 12,
+    "question": "Kinh tế chính trị Mác - Lênin nghiên cứu quan hệ sản xuất trong các khâu nào của quá trình tái sản xuất xã hội?",
+    "options": [
+      "A. Sản xuất và tiêu dùng",
+      "B. Sản xuất - phân phối - trao đổi - tiêu dùng",
+      "C. Đầu tư - tích lũy - vận chuyển - phân phối",
+      "D. Khấu hao - tích tụ - tập trung - cạnh tranh"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "Mục đích nghiên cứu cốt lõi của Kinh tế chính trị Mác - Lênin là gì?",
+    "options": [
+      "A. Tối đa hóa lợi nhuận cho các tập đoàn tài phiệt",
+      "B. Tìm ra các phạm trù và các quy luật kinh tế làm cơ sở hoạch định chính sách vĩ mô",
+      "C. Loại bỏ hoàn toàn sự can thiệp của Nhà nước vào thị trường",
+      "D. Tăng năng suất lao động cơ học bằng mọi giá"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "Bản chất của quy luật kinh tế là gì?",
+    "options": [
+      "A. Là các biện pháp hành chính nhất thời của Nhà nước",
+      "B. Là những mối liên hệ bản chất, tất yếu và lặp lại của các hiện tượng, quá trình kinh tế",
+      "C. Là các quy tắc đạo đức tự nguyện của doanh nghiệp",
+      "D. Là các mô hình toán học do doanh nghiệp tự lập ra"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "question": "Chính sách kinh tế khác quy luật kinh tế ở điểm nào?",
+    "options": [
+      "A. Quy luật kinh tế mang tính chủ quan, chính sách mang tính khách quan",
+      "B. Chính sách kinh tế là tổng thể các biện pháp của nhà nước nhằm đạt mục tiêu trong thời gian nhất định",
+      "C. Quy luật kinh tế có thể bị thay đổi dễ dàng bởi luật pháp nhà nước",
+      "D. Chính sách kinh tế tồn tại vĩnh viễn và không phụ thuộc vào ý chí con người"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "question": "Phương pháp nghiên cứu nào xem xét các hiện tượng kinh tế trong mối liên hệ phổ biến và xu hướng vận động, phát triển không ngừng?",
+    "options": [
+      "A. Phương pháp trừu tượng hóa khoa học",
+      "B. Phương pháp biện chứng duy vật",
+      "C. Phương pháp mô hình hóa toán học",
+      "D. Phương pháp phân tích thống kê"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "Phương pháp trừu tượng hóa khoa học trong nghiên cứu KTCT đòi hỏi phải làm gì?",
+    "options": [
+      "A. Giữ lại tất cả các nhân tố ngẫu nhiên, tạm thời để phân tích chi tiết",
+      "B. Gạt bỏ những nhân tố ngẫu nhiên, tạm thời để tách ra những nhân tố điển hình, ổn định, bền vững",
+      "C. Tạo ra các phòng thí nghiệm vật lý để mô phỏng quan hệ xã hội",
+      "D. Chỉ sử dụng số liệu khảo sát thị trường trong một ngày duy nhất"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "question": "Kinh tế chính trị Mác - Lênin giữ vai trò quan trọng thông qua bao nhiêu chức năng chính?",
+    "options": [
+      "A. 2 chức năng",
+      "B. 3 chức năng",
+      "C. 4 chức năng",
+      "D. 5 chức năng"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "question": "Chức năng nào của KTCT Mác - Lênin cung cấp các phạm trù, quy luật kinh tế khách quan làm chìa khóa nhận thức đời sống xã hội?",
+    "options": [
+      "A. Chức năng thực tiễn",
+      "B. Chức năng nhận thức",
+      "C. Chức năng tư tưởng",
+      "D. Chức năng phương pháp luận"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "Nội dung nào thuộc về chức năng thực tiễn của Kinh tế chính trị Mác - Lênin?",
+    "options": [
+      "A. Cung cấp cơ sở khoa học vững chắc để hoạch định chủ trương, chính sách kinh tế vĩ mô",
+      "B. Đóng góp tích cực vào việc xây dựng thế giới quan, nhân sinh quan cách mạng",
+      "C. Cung cấp nền tảng lý luận cho các môn kinh tế ngành và thương mại",
+      "D. Giải thích các hiện tượng tự nhiên bằng toán học thuần túy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 21,
+    "question": "Chức năng tư tưởng của Kinh tế chính trị Mác - Lênin hướng tới mục tiêu chiến lược nào của Đảng và Nhà nước Việt Nam?",
+    "options": [
+      "A. Tích lũy tư bản cá biệt càng nhanh càng tốt",
+      "B. 'Dân giàu, nước mạnh, dân chủ, công bằng, văn minh'",
+      "C. Độc quyền toàn diện thị trường đầu ra và đầu vào",
+      "D. Đẩy mạnh xuất khẩu hàng hóa thay thế hoàn toàn xuất khẩu tư bản"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 22,
+    "question": "Chức năng phương pháp luận của môn học này thể hiện qua việc cung cấp nền tảng lý luận cho nhóm môn học nào?",
+    "options": [
+      "A. Các môn khoa học tự nhiên như Vật lý, Hóa học",
+      "B. Các môn khoa học kinh tế cụ thể (kinh tế ngành, quản trị, tài chính...) và một số môn xã hội giao thoa",
+      "C. Các môn công nghệ thông tin và chuyển đổi số nền kinh tế",
+      "D. Các môn mỹ thuật và kiến trúc đô thị hiện đại"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 23,
+    "question": "Mô hình sản xuất nào trong lịch sử có đặc trưng là sản phẩm làm ra nhằm thỏa mãn nhu cầu tiêu dùng trực tiếp của chính người sản xuất?",
+    "options": [
+      "A. Sản xuất hàng hóa",
+      "B. Sản xuất tự cấp, tự túc (Kinh tế tự nhiên)",
+      "C. Kinh tế thị trường hiện đại",
+      "D. Kinh tế tri thức toàn cầuization"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 24,
+    "question": "Sản xuất hàng hóa là hình thức sản xuất ra sản phẩm nhằm mục đích gì?",
+    "options": [
+      "A. Tự tiêu dùng trong nội bộ gia đình",
+      "B. Trao đổi, mua bán trên thị trường",
+      "C. Dự trữ vô thời hạn trong các kho hàng quốc gia",
+      "D. Phục vụ riêng cho địa chủ bóc lột địa tô"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 25,
+    "question": "Để sản xuất hàng hóa ra đời và tồn tại cần có bao nhiêu điều kiện tiên quyết?",
+    "options": [
+      "A. 1 điều kiện",
+      "B. 2 điều kiện",
+      "C. 3 điều kiện",
+      "D. 4 điều kiện"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 26,
+    "question": "Điều kiện thứ nhất cho sự ra đời của sản xuất hàng hóa là gì?",
+    "options": [
+      "A. Sự tách biệt tuyệt đối về mặt chính trị giữa các quốc gia",
+      "B. Phân công lao động xã hội",
+      "C. Người lao động bị mất hết quyền tự do thân thể",
+      "D. Tiền tệ xuất hiện làm vật ngang giá chung"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 27,
+    "question": "Bản chất của phân công lao động xã hội là gì?",
+    "options": [
+      "A. Sự chia đều tiền lương cho tất cả mọi người",
+      "B. Sự phân chia lao động xã hội ra thành các ngành, nghề, lĩnh vực sản xuất khác nhau",
+      "C. Sự luân chuyển nhân sự giữa các tập đoàn và bộ máy nhà nước",
+      "D. Sự tích tụ tất cả các nguồn vốn vào tay một chủ thể"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 28,
+    "question": "Điều kiện thứ hai quy định sự ra đời của sản xuất hàng hóa liên quan đến yếu tố nào?",
+    "options": [
+      "A. Trình độ marketing của người bán sỉ",
+      "B. Sự tách biệt tương đối về mặt kinh tế do quan hệ sở hữu về tư liệu sản xuất quy định",
+      "C. Tốc độ chu chuyển của tư bản cố định tăng vọt",
+      "D. Sự phân chia địa tô chênh lệch I và địa tô chênh lệch II"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 29,
+    "question": "Mâu thuẫn nội tại căn bản trong sản xuất hàng hóa là gì?",
+    "options": [
+      "A. Mâu thuẫn giữa Cung lớn hơn Cầu",
+      "B. Mâu thuẫn giữa tính chất tư nhân và tính chất xã hội của lao động",
+      "C. Mâu thuẫn giữa tư bản bất biến và tư bản khả biến",
+      "D. Mâu thuẫn giữa hao mòn hữu hình và hao mòn vô hình"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 30,
+    "question": "Nội dung nào sau đây KHÔNG phải là ưu thế của sản xuất hàng hóa?",
+    "options": [
+      "A. Thúc đẩy lực lượng sản xuất phát triển mạnh mẽ",
+      "B. Dẫn đến sự phân hóa giàu nghèo sâu sắc và ô nhiễm môi trường",
+      "C. Thúc đẩy nhanh quá trình xã hội hóa sản xuất",
+      "D. Thúc đẩy dân chủ hóa, bình đẳng và tiến bộ xã hội"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 31,
+    "question": "Hàng hóa là gì?",
+    "options": [
+      "A. Là mọi vật phẩm có sẵn trong tự nhiên mà con người có thể hái lượm",
+      "B. Là sản phẩm của lao động nhằm thỏa mãn nhu cầu con người, đi vào tiêu dùng thông qua trao đổi, mua bán",
+      "C. Là tài sản cố định thuộc quyền sở hữu riêng của Nhà nước",
+      "D. Là số lượng tiền mặt tích lũy trong ngân hàng thương mại"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 32,
+    "question": "Hàng hóa có hai thuộc tính cơ bản nào không thể tách rời?",
+    "options": [
+      "A. Khối lượng và kích thước",
+      "B. Giá trị sử dụng và giá trị của hàng hóa",
+      "C. Giá bán sỉ và giá bán lẻ",
+      "D. Giá cả cá biệt và giá cả độc quyền"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 33,
+    "question": "Giá trị sử dụng của hàng hóa được định nghĩa là gì?",
+    "options": [
+      "A. Là khả năng trao đổi lấy một lượng tiền mặt lớn hơn ban đầu",
+      "B. Là công dụng của vật phẩm có thể thỏa mãn nhu cầu nào đó của con người",
+      "C. Là chi phí hao phí cơ bắp nói chung để làm ra vật phẩm",
+      "D. Là tỷ lệ trao đổi giữa m vải lấy 10kg thóc"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 34,
+    "question": "Giá trị sử dụng do yếu tố nào quy định và thuộc phạm trù gì?",
+    "options": [
+      "A. Do ý muốn chủ quan quy định, thuộc phạm trù lịch sử",
+      "B. Do thuộc tính tự nhiên của hàng hóa quy định, thuộc phạm trù vĩnh viễn",
+      "C. Do quan hệ cung cầu quy định, thuộc phạm trù tạm thời",
+      "D. Do chính sách nhà nước quy định, thuộc phạm trù pháp lý"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 35,
+    "question": "Bản chất thuộc tính 'Giá trị của hàng hóa' là gì?",
+    "options": [
+      "A. Là quan hệ số lượng cơ học giữa các vật phẩm",
+      "B. Là hao phí lao động xã hội của người sản xuất hàng hóa kết tinh trong hàng hóa đó",
+      "C. Là số tiền mặt nhận được từ nhà tư bản thương nghiệp",
+      "D. Là độ khan hiếm vật lý của nguyên liệu đầu vào"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 36,
+    "question": "Mối quan hệ giữa giá trị trao đổi và giá trị hàng hóa được biểu hiện như thế nào?",
+    "options": [
+      "A. Giá trị trao đổi là nội dung, giá trị là hình thức biểu hiện bên ngoài",
+      "B. Giá trị trao đổi chỉ là hình thức biểu hiện bên ngoài của giá trị; còn giá trị là nội dung, cơ sở của giá trị trao đổi",
+      "C. Hai phạm trù này hoàn toàn độc lập và không có mối liên hệ nào",
+      "D. Giá trị trao đổi luôn nhỏ hơn giá trị trong trạng thái Cung = Cầu"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 37,
+    "question": "Vì sao hàng hóa lại có hai thuộc tính cơ bản?",
+    "options": [
+      "A. Vì thị trường luôn phân chia thành người mua sỉ và người bán lẻ",
+      "B. Vì lao động của người sản xuất hàng hóa có tính chất hai mặt: lao động cụ thể và lao động trừu tượng",
+      "C. Vì có sự phân chia tư bản bất biến và tư bản khả biến trong xí nghiệp",
+      "D. Vì Nhà nước áp dụng đồng thời thuế vĩ mô và hạn ngạch thương mại"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 38,
+    "question": "Lao động cụ thể là lao động của người sản xuất hàng hóa dưới hình thức nào và tạo ra thuộc tính gì?",
+    "options": [
+      "A. Dưới hình thức hao phí năng lượng nói chung, tạo ra Giá trị hàng hóa",
+      "B. Dưới một hình thức nghề nghiệp chuyên môn nhất định, tạo ra thuộc tính Giá trị sử dụng",
+      "C. Dưới hình thức quản lý vĩ mô của nhà nước, tạo ra Thể chế kinh tế",
+      "D. Dưới hình thức đầu tư thâm canh, tạo ra Địa tô chênh lệch II"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 39,
+    "question": "Lao động trừu tượng tạo ra thuộc tính nào của hàng hóa?",
+    "options": [
+      "A. Giá trị sử dụng",
+      "B. Giá trị của hàng hóa",
+      "C. Thương hiệu vô hình",
+      "D. Khấu hao tài sản cố định"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 40,
+    "question": "Thước đo lượng giá trị của hàng hóa được xác định bằng đại lượng nào trong thực tế?",
+    "options": [
+      "A. Thời gian lao động cá biệt của người sản xuất nhanh nhất",
+      "B. Thời gian lao động xã hội cần thiết (TGLĐXHCT)",
+      "C. Mức giá cả độc quyền do tập đoàn tài phiệt áp đặt",
+      "D. Trọng lượng vật lý thuần túy của sản phẩm đầu ra"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 41,
+    "question": "Thời gian lao động xã hội cần thiết được xác định trong điều kiện nào của xã hội?",
+    "options": [
+      "A. Điều kiện tốt nhất về máy móc tự động hóa cao",
+      "B. Điều kiện trung bình của xã hội (trình độ kỹ thuật, tổ chức quản lý, trình độ và cường độ lao động trung bình)",
+      "C. Điều kiện xấu nhất của các thửa ruộng canh tác thô sơ",
+      "D. Điều kiện do cuộc cách mạng công nghiệp 4.0 quy định toàn diện"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 42,
+    "question": "Khi năng suất lao động tăng lên, lượng giá trị của một đơn vị hàng hóa sẽ biến động như thế nào?",
+    "options": [
+      "A. Tăng lên tỷ lệ thuận",
+      "B. Giảm xuống (tỷ lệ nghịch)",
+      "C. Giữ nguyên không đổi",
+      "D. Tăng đột biến theo cấp số nhân"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 43,
+    "question": "Theo C. Mác, mối quan hệ giữa lao động phức tạp và lao động giản đơn là gì?",
+    "options": [
+      "A. Lao động phức tạp bằng đúng lao động giản đơn",
+      "B. Lao động phức tạp là bội số của lao động giản đơn",
+      "C. Lao động giản đơn là bội số của lao động phức tạp",
+      "D. Hai loại lao động này không thể quy đổi về nhau"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 44,
+    "question": "Đặc trưng cốt lõi của loại hàng hóa vô hình mang tên 'Dịch vụ' là gì?",
+    "options": [
+      "A. Có hình thái vật chất cố định và có thể lưu kho lâu dài",
+      "B. Quá trình sản xuất và tiêu dùng diễn ra đồng thời, không thể dự trữ",
+      "C. Giá trị chỉ do tính khan hiếm tự nhiên quy định vĩnh viễn",
+      "D. Vận động tuần tuần tự qua ba giai đoạn giống tư bản thương nghiệp"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 45,
+    "question": "Bản chất giá trị của hàng hóa đặc biệt 'Quyền sử dụng đất đai' chịu sự quyết định bởi các yếu tố nào?",
+    "options": [
+      "A. Chỉ do khấu hao máy móc của nhà tư bản",
+      "B. Do hao phí lao động kết hợp với tính khan hiếm và trình độ phát triển kinh tế - xã hội",
+      "C. Do tốc độ lưu thông tiền tệ vĩ mô quyết định 100%",
+      "D. Do giá sỉ nhượng lại từ khâu sản xuất hàng hóa"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 46,
+    "question": "Lịch sử ra đời của tiền tệ trải qua tuần tự các hình thái giá trị nào?",
+    "options": [
+      "A. Hình thái chung → Hình thái mở rộng → Hình thái ngẫu nhiên → Hình thái tiền tệ",
+      "B. Hình thái giản đơn, ngẫu nhiên → Hình thái giá trị mở rộng → Hình thái giá trị chung → Hình thái tiền tệ",
+      "C. Hình thái sỉ → Hình thái lẻ → Hình thái độc quyền → Hình thái tiền tệ",
+      "D. Hình thái hiện vật → Hình thái tiền giấy → Hình thái số → Hình thái ảo"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 47,
+    "question": "Bản chất của tiền tệ là gì?",
+    "options": [
+      "A. Là một loại thẻ giấy do doanh nghiệp tự in ra để tích điểm",
+      "B. Là một loại hàng hóa đặc biệt đóng vai trò làm vật ngang giá chung cho tất cả các hàng hóa",
+      "C. Là lượng vốn khả biến ứng trước phục vụ quỹ khấu hao",
+      "D. Là công cụ hành chính tối cao để xóa bỏ cạnh tranh giữa các ngành"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 48,
+    "question": "Tiền tệ thực hiện bao nhiêu chức năng cơ bản theo lý luận kinh tế?",
+    "options": [
+      "A. 3 chức năng",
+      "B. 4 chức năng",
+      "C. 5 chức năng",
+      "D. 6 chức năng"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 49,
+    "question": "Chức năng 'Thước đo giá trị' của tiền tệ đòi hỏi loại tiền nào?",
+    "options": [
+      "A. Bắt buộc phải là tiền mặt đủ mệnh giá",
+      "B. Chỉ cần tiền tưởng tượng, không nhất thiết phải có tiền mặt",
+      "C. Phải là vàng thỏi nguyên chất 100%",
+      "D. Tiền kỹ thuật số đã qua chuyển đổi số vĩ mô"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 50,
+    "question": "Chức năng nào của tiền tệ làm môi giới trung gian trong hoạt động trao đổi theo công thức H - T - H' và đòi hỏi phải có tiền mặt?",
+    "options": [
+      "A. Thước đo giá trị",
+      "B. Phương tiện lưu thông",
+      "C. Phương tiện cất trữ",
+      "D. Tiền tệ thế giới"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 51,
+    "question": "Nguy cơ khủng hoảng kinh tế do chuỗi thanh toán bị đứt gãy gắn liền trực tiếp với chức năng nào của tiền tệ?",
+    "options": [
+      "A. Thước đo giá trị",
+      "B. Phương tiện thanh toán",
+      "C. Phương tiện lưu thông",
+      "D. Phương tiện cất trữ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 52,
+    "question": "Để thực hiện đầy đủ chức năng 'Phương tiện cất trữ', tiền phải tồn tại dưới hình thức nào?",
+    "options": [
+      "A. Tiền giấy thông thường đang lưu hành",
+      "B. Tiền vàng, tiền bạc hoặc vật phẩm bằng vàng bạc",
+      "C. Tiền tưởng tượng trên sổ sách hạch toán",
+      "D. Chứng khoán phái sinh dài hạn"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 53,
+    "question": "Cơ chế thị trường là gì?",
+    "options": [
+      "A. Là mệnh lệnh hành chính tuyệt đối từ các cơ quan quản lý vĩ mô",
+      "B. Là cơ chế tự điều tiết của nền kinh tế dưới sự tác động tổng hợp của các quy luật kinh tế khách quan",
+      "C. Là kế hoạch hóa tập trung do các tổ chức độc quyền tự lập ra",
+      "D. Là hệ thống quy chuẩn đạo đức của người bán sỉ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 54,
+    "question": "Quy luật kinh tế cơ bản của sản xuất và lưu thông hàng hóa là quy luật nào?",
+    "options": [
+      "A. Quy luật cung cầu",
+      "B. Quy luật lưu thông tiền tệ",
+      "C. Quy luật giá trị (QLGT)",
+      "D. Quy luật cạnh tranh nội bộ ngành"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 55,
+    "question": "Yêu cầu cốt lõi của Quy luật giá trị là việc sản xuất và lưu thông hàng hóa phải dựa trên cơ sở nào?",
+    "options": [
+      "A. Thời gian lao động cá biệt của doanh nghiệp đứng đầu",
+      "B. Hao phí lao động xã hội cần thiết (giá trị xã hội)",
+      "C. Sức mua thực tế của tiền tệ thế giới",
+      "D. Tổng chi phí sản xuất ứng trước k"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 56,
+    "question": "Quy luật giá trị biểu hiện sự tác động của mình ra bên ngoài thông qua sự vận động của yếu tố nào?",
+    "options": [
+      "A. Quỹ khấu hao tài sản cố định",
+      "B. Giá cả thị trường (GCTT)",
+      "C. Tỷ suất lợi tức tiền gửi ngân hàng Z'",
+      "D. Cơ cấu hữu cơ c/v"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 57,
+    "question": "Theo tác động của quy luật giá trị, khi Cung < Cầu thì giá cả và hành vi sản xuất sẽ biến động ra sao?",
+    "options": [
+      "A. Giá giảm, lợi nhuận giảm, thu hẹp sản xuất",
+      "B. Giá tăng, lợi nhuận tăng, doanh nghiệp mở rộng sản xuất hoặc ngành khác gia nhập",
+      "C. Giá bằng giá trị, dòng vốn đứng yên không di chuyển",
+      "D. Hàng hóa di chuyển ngược từ nơi giá cao về nơi giá thấp"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 58,
+    "question": "Trong lưu thông, quy luật giá trị điều tiết hàng hóa vận động theo xu hướng nào?",
+    "options": [
+      "A. Từ nơi giá cao đến nơi giá thấp",
+      "B. Từ nơi giá thấp đến nơi giá cao",
+      "C. Chỉ đứng yên tại thị trường đầu vào",
+      "D. Vận động ngẫu nhiên không tuân theo giá cả"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 59,
+    "question": "Quy luật giá trị kích thích cải tiến kỹ thuật, tăng năng suất lao động nhằm mục đích gì?",
+    "options": [
+      "A. Nâng cao thời gian lao động cá biệt vượt mức trung bình",
+      "B. Hạ thấp giá trị cá biệt so với giá trị xã hội để thu lợi nhuận cao hơn",
+      "C. Biến tiền thông thường thành tư bản cho vay",
+      "D. Tăng tiền công tính theo thời gian cho người công nhân"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 60,
+    "question": "Nội dung nào phản ánh mặt tiêu cực (hạn chế) của quy luật giá trị?",
+    "options": [
+      "A. Thúc đẩy lực lượng sản xuất phát triển mạnh mẽ",
+      "B. Dẫn đến sự phân hóa giàu nghèo, dễ gây bất ổn xã hội và ô nhiễm môi trường",
+      "C. Phân bổ các nguồn lực xã hội linh hoạt",
+      "D. Thúc đẩy xã hội hóa sản xuất"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 61,
+    "question": "Nhân tố nào sau đây tác động trực tiếp làm thay đổi 'Cầu' trên thị trường?",
+    "options": [
+      "A. Giá các yếu tố đầu vào sản xuất",
+      "B. Giá cả, thu nhập, giá hàng hóa liên quan, thị hiếu, kỳ vọng",
+      "C. Trình độ công nghệ số của doanh nghiệp bán sỉ",
+      "D. Chi phí khấu hao máy móc hữu hình"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 62,
+    "question": "Trong quy luật cung cầu, trạng thái thị trường nào dẫn đến kết quả Giá cả < Giá trị?",
+    "options": [
+      "A. Cung = Cầu",
+      "B. Cung > Cầu",
+      "C. Cung < Cầu",
+      "D. Thị trường độc quyền hoàn toàn"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 63,
+    "question": "Khi Cung < Cầu, mối quan hệ giữa giá cả và giá trị hàng hóa được biểu hiện như thế nào?",
+    "options": [
+      "A. Giá cả = Giá trị",
+      "B. Giá cả < Giá trị",
+      "C. Giá cả > Giá trị",
+      "D. Giá cả độc quyền giảm mạnh"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 64,
+    "question": "Công thức xác định số lượng tiền cần thiết cho lưu thông hàng hóa (M) của quy luật lưu thông tiền tệ là gì?",
+    "options": [
+      "A. M = (P / Q) x V",
+      "B. M = (P x Q) / V",
+      "C. M = P + Q - V",
+      "D. M = (V x Q) / P"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 65,
+    "question": "Trong công thức M = (P x Q) / V, ký hiệu 'V' đại diện cho đại lượng nào?",
+    "options": [
+      "A. Khối lượng hàng hóa đem ra lưu thông",
+      "B. Mức giá cả trung bình của các hàng hoá",
+      "C. Tốc độ lưu thông trung bình của đơn vị tiền tệ",
+      "D. Tổng số tiền mặt thanh toán nợ chịu"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 66,
+    "question": "Sự ganh đua, đấu tranh giữa các chủ thể kinh tế nhằm giành giật điều kiện thuận lợi để thu lợi nhuận tối đa gọi là gì?",
+    "options": [
+      "A. Quy luật cung cầu",
+      "B. Thể chế kinh tế",
+      "C. Quy luật cạnh tranh",
+      "D. Cơ chế độc quyền nhà nước"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 67,
+    "question": "Nội dung nào sau đây là tác động tiêu cực của quy luật cạnh tranh?",
+    "options": [
+      "A. Thúc đẩy lực lượng sản xuất phát triển",
+      "B. Gây tổn hại cho môi trường kinh doanh lành mạnh, lãng phí nguồn lực xã hội, suy giảm phúc lợi",
+      "C. Phân bổ các nguồn lực xã hội linh hoạt và hiệu quả",
+      "D. Thỏa mãn nhu cầu đa dạng của xã hội"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 68,
+    "question": "Công thức vận động của lưu thông hàng hóa giản đơn (LTHH) khác công thức lưu thông tư bản (LTTB) ở điểm nào?",
+    "options": [
+      "A. LTHH là T - H - T', LTTB là H - T - H",
+      "B. LTHH là H - T - H, LTTB là T - H - T'",
+      "C. LTHH bắt đầu bằng Tiền, LTTB bắt đầu bằng Hàng",
+      "D. LTHH có xu hướng vận động vô giới hạn, LTTB có giới hạn"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 69,
+    "question": "Mục đích lưu thông của công thức chung của tư bản (T - H - T') hướng tới yếu tố nào?",
+    "options": [
+      "A. Giá trị sử dụng để tiêu dùng trực tiếp",
+      "B. Giá trị, và cụ thể là giá trị tăng thêm (lượng tiền lớn hơn số vốn ban đầu)",
+      "C. Xóa bỏ hoàn toàn quy luật lưu thông tiền tệ",
+      "D. Giảm thời gian lao động thặng dư của công nhân"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 70,
+    "question": "Mối quan hệ bản chất trong công thức chung của tư bản biểu hiện qua hệ thức T' = T + m. Ký hiệu 'm' là gì?",
+    "options": [
+      "A. Tư bản bất biến",
+      "B. Tư bản khả biến",
+      "C. Giá trị thặng dư (GTTD)",
+      "D. Chi phí sản xuất ứng trước"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 71,
+    "question": "C. Mác định nghĩa bản chất tổng quát của 'Tư bản' là gì?",
+    "options": [
+      "A. Là một khối lượng tiền mặt khổng lồ cất trữ trong két sắt",
+      "B. Là giá trị mang lại giá trị thặng dư",
+      "C. Là toàn bộ máy móc nhà xưởng do Nhà nước sở hữu",
+      "D. Là quỹ phúc lợi xã hội dùng để xoa dịu mâu thuẫn"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 72,
+    "question": "Để tiền biến thành tư bản, nhà tư bản phải tìm thấy loại hàng hóa đặc biệt nào trên thị trường?",
+    "options": [
+      "A. Bông nguyên liệu giá sỉ",
+      "B. Sức lao động",
+      "C. Máy móc thiết bị tự động hóa",
+      "D. Chứng khoán phái sinh quốc tế"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 73,
+    "question": "Điều kiện thứ hai để sức lao động trở thành hàng hóa trong nền kinh tế tư bản là gì?",
+    "options": [
+      "A. Người lao động được tự do hoàn toàn về thân thể",
+      "B. Người lao động hoàn toàn không có tư liệu sản xuất và tư liệu sinh hoạt, buộc phải bán sức lao động để tồn tại",
+      "C. Người lao động phải đạt trình độ nhân lực chất lượng cao từ đầu",
+      "D. Người lao động phải sở hữu một thửa ruộng thâm canh"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 74,
+    "question": "Giá trị của hàng hóa sức lao động quy về lượng giá trị của yếu tố nào?",
+    "options": [
+      "A. Do doanh thu cá biệt của xí nghiệp quy định",
+      "B. Giá trị của toàn bộ tư liệu tiêu dùng để duy trì đời sống người lao động, nuôi gia đình họ và chi phí đào tạo",
+      "C. Giá cả của sản phẩm sợi bán lẻ ngoài thị trường đầu ra",
+      "D. Tổng số lợi nhuận bình quân của ngành may mặc"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 75,
+    "question": "Điểm đặc biệt duy nhất thuộc về thuộc tính 'Giá trị sử dụng' của hàng hóa sức lao động là gì?",
+    "options": [
+      "A. Biến mất hoàn toàn ngay sau hiệp làm việc đầu tiên",
+      "B. Trong quá trình tiêu dùng (sản xuất), nó tạo ra một lượng giá trị mới dôi ra ngoài giá trị của chính nó (giá trị thặng dư)",
+      "C. Do thuộc tính tự nhiên của cơ bắp quy định và mang tính vĩnh viễn không thay đổi",
+      "D. Có thể cất trữ lưu kho vô thời hạn như tư bản hàng hóa"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 76,
+    "question": "Trong ví dụ minh họa về xí nghiệp sản xuất sợi, lượng giá trị thặng dư 3 USD được tạo ra trong giai đoạn nào của ngày làm việc?",
+    "options": [
+      "A. Trong 4 giờ đầu lao động cần thiết",
+      "B. Trong 4 giờ sau lao động thặng dư",
+      "C. Do tiền mua bông giảm giá sỉ trên thị trường",
+      "D. Do khấu hao máy móc tự động tăng lên"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 77,
+    "question": "Bản chất thực chất của giá trị thặng dư (m) theo lý luận của C. Mác là gì?",
+    "options": [
+      "A. Là tiền thưởng Nhà nước ban tặng cho doanh nghiệp xuất sắc",
+      "B. Là một bộ phận giá trị mới do người lao động tạo ra ngoài mức thù lao của họ và bị nhà tư bản chiếm giữ không trả công",
+      "C. Là khoản chênh lệch do bán hàng hóa cao hơn giá trị thị trường",
+      "D. Là phần vốn đầu tư cố định chuyển nguyên vẹn vào sản phẩm sợi"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 78,
+    "question": "Ngày lao động của công nhân luôn được chia làm hai phần thời gian nào?",
+    "options": [
+      "A. Thời gian lao động trực tiếp và thời gian dự trữ sản xuất",
+      "B. Thời gian lao động cần thiết (t) và thời gian lao động thặng dư (t')",
+      "C. Thời gian hao mòn hữu hình và thời gian hao mòn vô hình",
+      "D. Thời gian lưu thông sỉ và thời gian lưu thông lẻ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 79,
+    "question": "Dựa trên tiêu chí vai trò trong việc tạo ra giá trị thặng dư, tư bản được phân chia thành những bộ phận nào?",
+    "options": [
+      "A. Tư bản cố định và tư bản lưu động",
+      "B. Tư bản bất biến (c) và tư bản khả biến (v)",
+      "C. Tư bản thương nghiệp và tư bản cho vay",
+      "D. Tư bản tiền tệ và tư bản hàng hóa"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 80,
+    "question": "Tư bản bất biến (c) bao gồm những yếu tố nào và giá trị của nó biến đổi ra sao sau quá trình sản xuất?",
+    "options": [
+      "A. Dùng để mua sức lao động, giá trị tăng lên đột biến",
+      "B. Dùng để mua tư liệu sản xuất (máy móc, nhà xưởng, nguyên liệu); giá trị được bảo tồn và chuyển nguyên vẹn vào sản phẩm mới, không đổi lượng",
+      "C. Dùng để chi trả tiền lương công nhân, tạo ra giá trị thặng dư siêu ngạch",
+      "D. Dùng để nộp địa tô tuyệt đối cho địa chủ, lượng giá trị biến mất cơ học"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 81,
+    "question": "Bộ phận tư bản nào dùng để mua hàng hóa sức lao động (tiền lương) và tăng lên về lượng trong quá trình sản xuất nhờ lao động trừu tượng của công nhân?",
+    "options": [
+      "A. Tư bản bất biến (c)",
+      "B. Tư bản khả biến (v)",
+      "C. Tư bản cố định (TBCĐ)",
+      "D. Tư bản thương nghiệp"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 82,
+    "question": "Cơ cấu tổng giá trị của một hàng hóa (W) được biểu diễn bằng công thức nào?",
+    "options": [
+      "A. W = c + v - m",
+      "B. W = c + v + m",
+      "C. W = k + p'",
+      "D. W = K + P"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 83,
+    "question": "Tỷ suất giá trị thặng dư (m') phản ánh đại lượng nào và có công thức tính là gì?",
+    "options": [
+      "A. Phản ánh quy mô vốn ứng trước, m' = k + p",
+      "B. Phản ánh trình độ bóc lột của nhà tư bản đối với công nhân; m' = (m / v) x 100%",
+      "C. Phản ánh tốc độ chu chuyển tư bản; m' = CH / ch",
+      "D. Phản ánh năng suất lao động cá biệt; m' = P / K"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 84,
+    "question": "Khối lượng giá trị thặng dư (M) phản ánh quy mô GTTD bằng tiền tệ, có công thức xác định là gì?",
+    "options": [
+      "A. M = p' x k",
+      "B. M = m' x V (với V là tổng tư bản khả biến)",
+      "C. M = R / Z'",
+      "D. M = (P x Q) / V"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 85,
+    "question": "Một xí nghiệp có cơ cấu hàng hóa W = 800c + 200v + 300m (USD). Hãy tính tỷ suất giá trị thặng dư (m') của xí nghiệp này?",
+    "options": [
+      "A. 40%",
+      "B. 100%",
+      "C. 150%",
+      "D. 300%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 86,
+    "question": "Nhà tư bản áp dụng bao nhiêu phương pháp cơ bản để sản xuất gia tăng giá trị thặng dư?",
+    "options": [
+      "A. 2 phương pháp",
+      "B. 3 phương pháp",
+      "C. 4 phương pháp",
+      "D. 5 phương pháp"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 87,
+    "question": "Phương pháp sản xuất giá trị thặng dư tuyệt đối gia tăng m bằng cách nào?",
+    "options": [
+      "A. Rút ngắn ngày lao động cơ học",
+      "B. Tăng năng suất lao động xã hội để giảm giá trị sức lao động",
+      "C. Kéo dài ngày lao động một cách cơ học trong điều kiện thời gian lao động cần thiết giữ nguyên",
+      "D. Áp dụng công nghệ số và chuyển đổi số toàn diện"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 88,
+    "question": "Phương pháp sản xuất giá trị thặng dư tương đối dựa trên cơ sở nào để tăng thời gian lao động thặng dư khi độ dài ngày lao động không đổi?",
+    "options": [
+      "A. Giảm cường độ lao động xuống mức tối thiểu",
+      "B. Tăng năng suất lao động xã hội nhằm rút ngắn thời gian lao động cần thiết (hạ thấp giá trị sức lao động)",
+      "C. Tăng lương danh nghĩa cho công nhân",
+      "D. Quốc hữu hóa toàn bộ tư bản bất biến"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 89,
+    "question": "Giá trị thặng dư siêu ngạch thu được khi nào?",
+    "options": [
+      "A. Khi năng suất lao động xã hội của tất cả các ngành tăng đều nhau",
+      "B. Khi xí nghiệp đi đầu thu được năng suất lao động cá biệt cao hơn năng suất lao động xã hội, làm giá trị cá biệt thấp hơn giá trị thị trường",
+      "C. Khi nhà tư bản nhường toàn bộ lợi nhuận cho khâu thương nghiệp",
+      "D. Khi địa chủ không thu địa tô tuyệt đối nữa"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 90,
+    "question": "Đặc trưng nào thuộc về Giá trị thặng dư tương đối khi so sánh với GTTD siêu ngạch?",
+    "options": [
+      "A. Chỉ mang hình thái tạm thời và biến mất khi kỹ thuật mới phổ biến",
+      "B. Dựa trên tăng năng suất lao động cá biệt tại từng xí nghiệp",
+      "C. Luôn tồn tại vững chắc và đóng vai trò xu hướng phát triển chính của CNTB dựa trên tăng năng suất lao động xã hội",
+      "D. Biểu hiện quan hệ cạnh tranh thuần túy giữa các nhà tư bản với nhau"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 91,
+    "question": "Bản chất thực sự của 'Tiền công' trong chủ nghĩa tư bản là gì?",
+    "options": [
+      "A. Là giá trị hay giá cả của 'lao động'",
+      "B. Là giá cả của hàng hóa sức lao động (nhà tư bản mua sức lao động chứ không mua hành vi lao động cụ thể)",
+      "C. Là khoản thù lao hành chính do Nhà nước cấp phát trực tiếp",
+      "D. Là phần dôi ra do tích lũy tư bản phụ thêm sinh ra"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 92,
+    "question": "Hình thức tiền công tính theo thời gian có hạn chế lớn nhất là gì?",
+    "options": [
+      "A. Rất khó tính toán và áp dụng trong thực tế",
+      "B. Không có tác dụng kích thích tinh thần tự giác, nhiệt tình và sáng tạo của người công nhân",
+      "C. Dễ dẫn đến việc công nhân chỉ chạy theo số lượng, lơ là chất lượng",
+      "D. Làm tăng cấu tạo hữu cơ c/v quá nhanh"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 93,
+    "question": "Khái niệm 'Tiền công thực tế' được đo lường bằng đại lượng nào?",
+    "options": [
+      "A. Số lượng tiền mặt (tiền tệ) nhận được trực tiếp sau ngày làm việc",
+      "B. Khối lượng hàng hóa và dịch vụ tiêu dùng mà người công nhân có thể thực mua được bằng tiền công danh nghĩa",
+      "C. Mệnh giá ghi trên tờ tiền của hệ thống ngân hàng",
+      "D. Tốc độ chu chuyển của tư bản lưu động"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 94,
+    "question": "Bản chất của tích lũy tư bản (TLTB) là quá trình gì?",
+    "options": [
+      "A. Tiêu dùng hết sạch lượng giá trị thặng dư m hằng năm",
+      "B. Tư bản hóa một phần giá trị thặng dư (giữ lại một phần m để tái đầu tư mở rộng sản xuất)",
+      "C. Gộp nhiều tư bản nhỏ sẵn có trong xã hội lại thành một khối",
+      "D. Trả lương cao cho công nhân để mua thiết bị tự động số"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 95,
+    "question": "Nội dung nào KHÔNG phải là nhân tố ảnh hưởng trực tiếp đến quy mô tích lũy tư bản?",
+    "options": [
+      "A. Tỷ suất giá trị thặng dư (m')",
+      "B. Năng suất lao động xã hội",
+      "C. Quy mô của tư bản ứng trước ban đầu",
+      "D. Hình thức trả tiền công theo thời gian hay theo sản phẩm"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 96,
+    "question": "Sự khác biệt căn bản về quy mô tư bản xã hội giữa Tích tụ tư bản và Tập trung tư bản là gì?",
+    "options": [
+      "A. Tích tụ làm quy mô tư bản xã hội tăng; Tập trung không làm tăng quy mô tư bản xã hội (chỉ phân bổ lại cơ cấu sở hữu)",
+      "B. Tích tụ không làm tăng quy mô tư bản xã hội; Tập trung làm tăng quy mô tư bản xã hội đột biến",
+      "C. Cả hai quá trình đều làm giảm tổng tư bản xã hội do khủng hoảng",
+      "D. Cả hai quá trình đều không ảnh hưởng đến tổng tư bản xã hội"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 97,
+    "question": "Nguồn gốc vốn trực tiếp của quá trình Tích tụ tư bản là từ đâu?",
+    "options": [
+      "A. Từ việc sáp nhập các doanh nghiệp nhỏ bị phá sản",
+      "B. Từ giá trị thặng dư (M) được giữ lại để tư bản hóa hằng năm (biểu hiện từ Lợi nhuận)",
+      "C. Từ nguồn vốn viện trợ phát triển ODA của nước ngoài",
+      "D. Từ tiền gửi tiết kiệm của công nhân nông nghiệp"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 98,
+    "question": "Cấu tạo giá trị của tư bản phản ánh tỷ lệ về mặt lượng tiền giữa các yếu tố nào?",
+    "options": [
+      "A. Giữa số lượng hiện vật tư liệu sản xuất và số lượng sức lao động",
+      "B. Giữa lượng giá trị của tư bản bất biến (c) và lượng giá trị của tư bản khả biến (v), ký hiệu c/v",
+      "C. Giữa giá bán sỉ công nghiệp và giá bán lẻ thương nghiệp",
+      "D. Giữa địa tô chênh lệch và địa tô tuyệt đối"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 99,
+    "question": "Cấu tạo hữu cơ của tư bản được định nghĩa là gì?",
+    "options": [
+      "A. Là tỷ lệ thuần túy vật lý giữa máy móc và nguyên liệu",
+      "B. Là cấu tạo giá trị của tư bản, do cấu tạo kỹ thuật quyết định và phản ánh mọi biến động của cấu tạo kỹ thuật đó",
+      "C. Là sự liên kết đa ngành theo hình thức Côngglômêrát",
+      "D. Là tổng thời gian sản xuất và thời gian lưu thông trong một chu kỳ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 100,
+    "question": "Xu hướng chung của cấu tạo hữu cơ c/v trong tiến trình phát triển của CNTB là gì?",
+    "options": [
+      "A. Không ngừng giảm xuống do cắt giảm lương công nhân",
+      "B. Không ngừng tăng cao do máy móc hiện đại thay thế dần con người",
+      "C. Giữ cố định ở mức trung bình 8/2 trong mọi chu kỳ",
+      "D. Biến động ngẫu nhiên theo giá cả đất đai"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 101,
+    "question": "Tuần hoàn tư bản là sự vận động liên tiếp trải chuỗi qua bao nhiêu giai đoạn và tồn tại dưới bao nhiêu hình thái?",
+    "options": [
+      "A. 2 giai đoạn, 2 hình thái",
+      "B. 3 giai đoạn, 3 hình thái hiện vật khác nhau",
+      "C. 4 giai đoạn, 4 hình thái kinh doanh",
+      "D. 5 giai đoạn, 3 hình thái vĩ vĩnh"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 102,
+    "question": "Sơ đồ tổng quát biểu diễn chuỗi vận động tuần hoàn tư bản là sơ đồ nào?",
+    "options": [
+      "A. H - T - H' ... SX ... T - T'",
+      "B. T → H(SLĐ/TLSX) ... SX ... H' → T'",
+      "C. K → c + v + m → k + p → Gsx",
+      "D. PTA → FREE → FTA → CU → MU"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 103,
+    "question": "Chức năng kinh tế của hình thái 'Tư bản sản xuất' (TBSX) trong giai đoạn 2 của tuần hoàn là gì?",
+    "options": [
+      "A. Mua các yếu tố đầu vào phục vụ sản xuất",
+      "B. Tiến hành sản xuất, bóc lột sức lao động để tạo ra giá trị hàng hóa mới có chứa m (H')",
+      "C. Thực hiện giá trị hàng hóa bằng cách chuyển từ hàng về tiền mặt T'",
+      "D. Cho vay tiền lời nhận lợi tức Z"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 104,
+    "question": "Chu chuyển tư bản là tuần hoàn tư bản nếu xét nó dưới góc độ nào?",
+    "options": [
+      "A. Là một hành vi mua bán ngẫu nhiên một lần trên thị trường",
+      "B. Là một quá trình định kỳ, đổi mới, diễn ra liên tục và lặp đi lặp lại không ngừng theo thời gian",
+      "C. Là công cụ để tối đa hóa địa tô chênh lệch II",
+      "D. Là sự luân chuyển nhân sự giữa tập đoàn và bộ máy vĩ mô"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 105,
+    "question": "Tổng thời gian chu chuyển của tư bản cấu thành từ những khoảng thời gian nào?",
+    "options": [
+      "A. Thời gian lao động cần thiết và thời gian lao động thặng dư",
+      "B. Thời gian sản xuất và thời gian lưu thông",
+      "C. Thời gian khấu hao máy móc và thời gian tích lũy vốn",
+      "D. Thời gian thâu tóm và thời gian sáp nhập M&A"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 106,
+    "question": "Thời gian sản xuất (TGSX) của tư bản bao gồm những bộ phận nào?",
+    "options": [
+      "A. Thời gian lưu thông sỉ và thời gian lưu thông lẻ",
+      "B. Thời gian lao động trực tiếp, thời gian gián đoạn lao động (kỹ thuật tự nhiên) và thời gian dự trữ sản xuất",
+      "C. Thời gian quy đổi tỷ giá hối đoái và thời gian marketing",
+      "D. Thời gian tranh chấp hợp đồng thương mại"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 107,
+    "question": "Công thức xác định tốc độ chu chuyển tư bản (số vòng chu chuyển n trong một năm) là gì?",
+    "options": [
+      "A. n = ch / CH",
+      "B. n = CH / ch",
+      "C. n = M / V",
+      "D. n = P / K"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 108,
+    "question": "Dựa trên tiêu chí phương thức chuyển hóa giá trị vào sản phẩm mới, tư bản sản xuất được chia thành những bộ phận nào?",
+    "options": [
+      "A. Tư bản bất biến và tư bản khả biến",
+      "B. Tư bản cố định (TBCĐ) và tư bản lưu động (TBLĐ)",
+      "C. Tư bản công nghiệp và tư bản thương nghiệp",
+      "D. Tư bản tài chính và hệ thống tài phiệt"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 109,
+    "question": "Đặc trưng chuyển hóa giá trị của bộ phận 'Tư bản cố định' (TBCĐ) là gì?",
+    "options": [
+      "A. Chuyển toàn bộ lượng giá trị vào sản phẩm mới sau một chu kỳ duy nhất",
+      "B. Tham gia hoàn toàn vào nhiều chu kỳ sản xuất, dịch chuyển từng phần giá trị vào sản phẩm mới thông qua quỹ khấu hao",
+      "C. Tăng giá trị liên tục nhờ lao động trừu tượng của công nhân làm thuê",
+      "D. Biến đổi hình thái hiện vật hoàn toàn ngay khi tiếp xúc nguyên liệu"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 110,
+    "question": "Sự mất giá thuần túy về mặt lượng tiền của máy móc cũ do sự xuất hiện của máy móc mới hiện đại hoặc rẻ hơn nhờ tiến bộ KHCN gọi là gì?",
+    "options": [
+      "A. Hao mòn hữu hình",
+      "B. Hao mòn vô hình",
+      "C. Khấu hao cơ học cơ bản",
+      "D. Phân hóa giàu nghèo sâu sắc"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 111,
+    "question": "Yếu tố nào sau đây thuộc về bộ phận 'Tư bản lưu động' (TBLĐ) của xí nghiệp?",
+    "options": [
+      "A. Nhà xưởng và công trình kiến trúc",
+      "B. Máy móc, thiết bị dây chuyền sản xuất",
+      "C. Nguyên vật liệu, nhiên liệu, và tiền công trả cho người lao động",
+      "D. Thương hiệu và chứng khoán phát hành"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 112,
+    "question": "Công thức xác định Chi phí sản xuất (k) của hàng hóa là gì?",
+    "options": [
+      "A. k = c - v",
+      "B. k = c + v",
+      "C. k = v + m",
+      "D. k = K + P"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 113,
+    "question": "Khi lượng giá trị thặng dư m được xã hội quan niệm dưới hình thái biến tướng là kết quả của toàn bộ chi phí sản xuất k ứng trước thì m trở thành phạm trù nào?",
+    "options": [
+      "A. Tỷ suất lợi nhuận p'",
+      "B. Lợi nhuận (p)",
+      "C. Giá cả sản xuất Gsx",
+      "D. Lợi tức cho vay Z"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 114,
+    "question": "Hình thái lợi nhuận p có tính chất tiêu cực gì về mặt nhận thức bản chất quan hệ sản xuất?",
+    "options": [
+      "A. Làm tăng chi phí sản xuất lên mức tối đa",
+      "B. Che giấu, phủ nhận quan hệ bóc lột của CNTB vì làm lầm tưởng toàn bộ vốn đầu tư k tự sinh ra tiền lời",
+      "C. Thúc đẩy lãng phí lớn nguồn lực của toàn xã hội",
+      "D. Ngăn chặn sự dịch chuyển tự do vốn giữa các ngành"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 115,
+    "question": "Công thức tính toán Tỷ suất lợi nhuận (p') là công thức nào?",
+    "options": [
+      "A. p' = (p / k) x 100%",
+      "B. p' = (m / v) x 100%",
+      "C. p' = (Z / Kcv) x 100%",
+      "D. p' = (R / Gd) x 100%"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 116,
+    "question": "Cho cơ cấu hàng hóa xí nghiệp W = 800c + 200v + 300m và giá bán ra thị trường g = 1400 USD. Hãy tính tỷ suất lợi nhuận thực tế p'?",
+    "options": [
+      "A. 150%",
+      "B. 30%",
+      "C. 40%",
+      "D. 20%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 117,
+    "question": "Cuộc cạnh tranh giữa các doanh nghiệp hoạt động trong cùng một ngành sản xuất nhằm giành giật điều kiện thuận lợi và lợi nhuận siêu ngạch gọi là gì?",
+    "options": [
+      "A. Cạnh tranh giữa các ngành",
+      "B. Cạnh tranh trong nội bộ ngành",
+      "C. Cạnh tranh độc quyền nhà nước",
+      "D. Liên kết dọc theo hình thức Côngxoócxiom"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 118,
+    "question": "Kết quả của cuộc cạnh tranh trong nội bộ ngành dẫn đến sự hình thành yếu tố nào?",
+    "options": [
+      "A. Tỷ suất lợi nhuận bình quân chung",
+      "B. Giá trị thị trường (giá trị xã hội) của hàng hóa",
+      "C. Giá cả sản xuất Gsx độc quyền",
+      "D. Địa tô tuyệt đối bóc lột"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 119,
+    "question": "Cạnh tranh giữa các ngành là cuộc cạnh tranh nhằm mục đích gì và dẫn đến hiện tượng gì?",
+    "options": [
+      "A. Nhằm độc chiếm thị trường sỉ, dẫn đến tăng thuế vĩ mô",
+      "B. Nhằm tìm kiếm nơi bỏ vốn có tỷ suất sinh lời cao hơn, dẫn tới hiện tượng di chuyển tự do vốn từ ngành sinh lời thấp sang cao",
+      "C. Nhằm bảo vệ môi trường kinh doanh, dẫn đến xóa bỏ hoàn toàn lợi nhuận siêu ngạch",
+      "D. Nhằm thâu tóm các công ty đa quốc gia MNCs"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 120,
+    "question": "Sự hình thành tỷ suất lợi nhuận bình quân dẫn đến việc xác định lượng lợi nhuận ngang nhau của những tư bản bằng nhau, gọi là gì?",
+    "options": [
+      "A. Giá trị thặng dư siêu ngạch",
+      "B. Lợi nhuận bình quân (P)",
+      "C. Lợi tức cho vay cố định Z",
+      "D. Tiền công tính theo sản phẩm"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 121,
+    "question": "Trong giai đoạn chủ nghĩa tư bản tự do cạnh tranh, quy luật giá trị hàng hóa biểu hiện cụ thể ra bên ngoài thành quy luật nào?",
+    "options": [
+      "A. Quy luật giá cả độc quyền",
+      "B. Quy luật giá cả sản xuất (Gsx = K + P)",
+      "C. Quy luật địa tô tuyệt đối",
+      "D. Quy luật lưu thông tiền tệ vĩ mô"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 122,
+    "question": "Bản chất của lợi nhuận thương nghiệp (Ptn) được giải thích như thế nào?",
+    "options": [
+      "A. Là khoản tiền tăng giá tự ý do nhà buôn ép người tiêu dùng gánh chịu",
+      "B. Là một phần giá trị thặng dư tạo ra từ khâu sản xuất do nhà tư bản công nghiệp nhường lại cho nhà tư bản thương nghiệp",
+      "C. Là tiền lời trực tiếp sinh ra từ hành vi lưu thông mua thấp bán cao",
+      "D. Là phần vốn lưu động ktn tự nhân bản theo cấp số nhân"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 123,
+    "question": "Tư bản cho vay vận động theo công thức rút gọn tối giản nào phản ánh tư duy 'tiền đẻ ra tiền' trực tiếp?",
+    "options": [
+      "A. H - T - H'",
+      "B. T - H - T'",
+      "C. T - T' (với T' = T + Z)",
+      "D. K - P - Gsx"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 124,
+    "question": "Lợi tức (Z) là gì?",
+    "options": [
+      "A. Là toàn bộ tổng tư bản khả biến ứng trước",
+      "B. Là một phần của lợi nhuận bình quân mà nhà tư bản đi vay phải trích ra từ kết quả kinh doanh để trả cho người cho vay",
+      "C. Là giá cả mua đứt 1 ha đất đai nông nghiệp",
+      "D. Là phần chênh lệch giữa giá bán sỉ và giá bán lẻ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 125,
+    "question": "Biên độ vận động khách quan của tỷ suất lợi tức (Z') luôn tuân thủ giới hạn nào so với tỷ suất lợi nhuận bình quân (p')?",
+    "options": [
+      "A. Z' luôn lớn hơn p'",
+      "B. 0 < Z' < p'",
+      "C. Z' = p' trong mọi chu kỳ",
+      "D. Z' < 0 trong khủng hoảng kinh tế"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 126,
+    "question": "Địa tô tư bản chủ nghĩa (R) được định nghĩa là bộ phận giá trị thặng dư siêu ngạch ngoài lợi nhuận bình quân mà nhà tư bản thuê đất phải trích trả cho ai?",
+    "options": [
+      "A. Người công nhân nông nghiệp làm thuê",
+      "B. Địa chủ (chủ đất)",
+      "C. Nhà nước tư sản vĩ mô",
+      "D. Nhà buôn thương nghiệp bán sỉ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 127,
+    "question": "Địa tô chênh lệch I hình thành trên các thửa ruộng có đặc điểm tự nhiên nào?",
+    "options": [
+      "A. Đất đai có điều kiện canh tác xấu nhất xã hội",
+      "B. Thử ruộng có độ màu mỡ cao hoặc có vị trí địa lý thuận lợi gần thị trường tiêu thụ",
+      "C. Đất đai gắn liền với kết quả đầu tư thâm canh nâng cao công nghệ",
+      "D. Đất đai bị ô nhiễm môi trường do cạnh tranh khốc liệt"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 128,
+    "question": "Lượng địa tô bắt buộc hình thành trên tất cả mọi loại ruộng đất, kể cả đất đai xấu nhất mà nhà tư bản thuê đất phải nộp cho địa chủ gọi là gì?",
+    "options": [
+      "A. Địa tô chênh lệch I",
+      "B. Địa tô chênh lệch II",
+      "C. Địa tô tuyệt đối",
+      "D. Địa tô tư bản hóa vĩnh viễn"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 129,
+    "question": "Bản chất giá cả đất đai (Gd) theo công thức Gd = R / Z' được coi là gì?",
+    "options": [
+      "A. Là hao phí lao động kết tinh tự thân của đất",
+      "B. Là địa tô tư bản hóa",
+      "C. Là giá bán sỉ của tư liệu sản xuất nông nghiệp",
+      "D. Là chi phí thâm canh chu kỳ 3"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 130,
+    "question": "Theo dự báo của C. Mác và Ăngghen, tiến trình logic dẫn đến sự hình thành của độc quyền diễn ra tuần tự ra sao?",
+    "options": [
+      "A. Độc quyền → Tập trung sản xuất → Cạnh tranh",
+      "B. Tự do cạnh tranh dẫn đến tập trung sản xuất, tập trung sản xuất đến trình độ nhất định lại dẫn tới độc quyền",
+      "C. Nhà nước áp đặt → Độc quyền → Xóa bỏ hoàn toàn lực lượng sản xuất",
+      "D. Khủng hoảng hệ thống → Cạnh tranh ngành → Độc quyền thương nghiệp"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 131,
+    "question": "Trong giai đoạn chủ nghĩa tư bản độc quyền, quy luật giá trị có hình thức biểu hiện ra bên ngoài thành quy luật nào?",
+    "options": [
+      "A. Quy luật giá cả sản xuất",
+      "B. Quy luật giá cả độc quyền",
+      "C. Quy luật địa tô chênh lệch II",
+      "D. Quy luật phân phối theo kết quả lao động"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 132,
+    "question": "Đặc điểm kinh tế cơ bản nào sau đây thuộc về Chủ nghĩa tư bản độc quyền (CNTBĐQ) theo lý luận của V.I.Lênin?",
+    "options": [
+      "A. Xuất khẩu hàng hóa chiếm ưu thế tuyệt đối so với xuất khẩu tư bản",
+      "B. Sự xuất hiện của tư bản tài chính và hệ thống tài phiệt dựa trên kết hợp tư bản ngân hàng và công nghiệp",
+      "C. Xóa bỏ hoàn toàn các tổ chức độc quyền liên kết ngang",
+      "D. Kinh tế tri thức giữ vai trò chủ đạo vĩ mô"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 133,
+    "question": "Các hình thức tổ chức độc quyền theo kiểu 'Liên kết ngang' bao gồm những tổ chức nào?",
+    "options": [
+      "A. Côngxoócxiom (Consortium)",
+      "B. Cácten (Cartel), Xanhđica (Syndicate), Torót (Trust)",
+      "C. Côngglômêrát (Conglomerate), Cônson (Concern)",
+      "D. Công ty đa quốc gia MNCs"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 134,
+    "question": "Bản chất của Chủ nghĩa tư bản độc quyền nhà nước (CNTBĐQNN) là gì?",
+    "options": [
+      "A. Là sự xóa bỏ hoàn toàn sức mạnh của các tập đoàn tư nhân độc quyền",
+      "B. Là sự kết hợp sức mạnh của các tổ chức độc quyền với sức mạnh của nhà nước tư bản thành một thiết chế, thể chế thống nhất",
+      "C. Là sự thành lập mô hình kinh tế thị trường định hướng XHCN từ đầu",
+      "D. Là sự điều tiết tự động hoàn toàn của cơ chế thị trường tự do"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 135,
+    "question": "Sự luân chuyển nhân sự giữa ban lãnh đạo các tập đoàn độc quyền và các vị trí then chốt trong bộ máy nhà nước phản ánh hình thức nào của CNTBĐQNN?",
+    "options": [
+      "A. Sự hình thành sở hữu nhà nước",
+      "B. Sự kết hợp về nhân sự",
+      "C. Sự điều tiết vĩ mô qua công cụ luật pháp",
+      "D. Quản trị toàn cầu hóa"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 136,
+    "question": "Mô hình kinh tế hàng hóa nhiều thành phần vận động theo cơ chế thị trường, có sự quản lý của Nhà nước theo định hướng xã hội chủ nghĩa tại Việt Nam gọi là gì?",
+    "options": [
+      "A. Kinh tế tự nhiên tự cấp tự túc",
+      "B. Kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam",
+      "C. Chủ nghĩa tư bản độc quyền nhà nước hiện đại",
+      "D. Mô hình kinh tế tri thức hướng ngoại mở"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 137,
+    "question": "Đặc trưng về quan hệ sở hữu và thành phần kinh tế trong nền KTTT định hướng XHCN ở Việt Nam quy định vai trò của kinh tế nhà nước ra sao?",
+    "options": [
+      "A. Kinh tế nhà nước bị thu hẹp tối đa và không tham gia thị trường",
+      "B. Nhiều hình thức sở hữu và thành phần kinh tế cùng tồn tại, trong đó kinh tế nhà nước giữ vai trò chủ đạo",
+      "C. Kinh tế nhà nước độc quyền 100% tất cả các loại hình thị trường",
+      "D. Kinh tế nhà nước chỉ tồn tại dưới dạng sở hữu bên trong tập quán"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 138,
+    "question": "Về quan hệ phân phối thu nhập, nền KTTT định hướng XHCN ở Việt Nam lấy hình thức phân phối nào làm chủ yếu?",
+    "options": [
+      "A. Phân phối theo phúc lợi xã hội đồng đều tuyệt đối",
+      "B. Phân phối theo kết quả lao động và hiệu quả kinh tế",
+      "C. Phân phối theo nguồn vốn đóng góp của các tập đoàn tài phiệt",
+      "D. Phân phối dựa trên địa tô tuyệt đối bóc lột"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 139,
+    "question": "Khái niệm 'Thể chế' (Institutions) được định nghĩa tổng quát là gì?",
+    "options": [
+      "A. Là các mô hình toán học dự báo tăng trưởng cung cầu",
+      "B. Là những quy tắc do con người đặt ra nhằm điều chỉnh các hoạt động của con người trong một chế độ xã hội",
+      "C. Là tổng số tiền lương mặt nhận từ nhà tư bản thương nghiệp",
+      "D. Là dây chuyền sản xuất hàng loạt chạy bằng năng lượng điện"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 140,
+    "question": "Tập quan, quy chuẩn đạo đức, lề lối tốt, quy ước thương mại thuộc về loại thể chế nào?",
+    "options": [
+      "A. Thể chế bên ngoài (external institution)",
+      "B. Thể chế bên trong (internal institution)",
+      "C. Thể chế kinh tế thị trường quốc tế",
+      "D. Hệ thống pháp luật quốc gia vĩ mô"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 141,
+    "question": "Biểu hiện cụ thể ra bên ngoài của 'Lợi ích kinh tế' xuất hiện dưới dạng các khoản thu nhập nào?",
+    "options": [
+      "A. Chỉ xuất hiện dưới dạng tiền lương cố định của công nhân",
+      "B. Tiền lương, tiền lãi, tiền thuê, lợi nhuận, thuế",
+      "C. Khấu hao tài sản hữu hình và vô hình",
+      "D. Giá cả đất đai tư bản hóa hằng năm"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 142,
+    "question": "Theo Ăngghen, mâu thuẫn về lợi ích kinh tế giữa các chủ thể là cội nguồn của vấn đề tiêu cực nào?",
+    "options": [
+      "A. Sự tăng cao của cấu tạo hữu cơ c/v",
+      "B. Các xung đột xã hội",
+      "C. Hao mòn vô hình của tư bản cố định",
+      "D. Tốc độ chu chuyển tư bản lưu động giảm"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 143,
+    "question": "Cuộc cách mạng công nghiệp lần thứ nhất (1st) bắt đầu từ năm 1784 mang đặc trưng công nghệ cốt lõi nào?",
+    "options": [
+      "A. Sử dụng động cơ điện và tổ chức dây chuyền sản xuất",
+      "B. Cơ khí hóa với máy móc chạy bằng năng lượng thủy lực và hơi nước",
+      "C. Kỷ nguyên máy tính, điện tử và tự động hóa từng phần",
+      "D. Hệ thống liên kết thế giới thực và ảo, trí tuệ nhân tạo"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 144,
+    "question": "Kỷ nguyên máy tính, điện tử và tự động hóa sản xuất từng phần là đặc trưng công nghệ của cuộc cách mạng công nghiệp lần thứ mấy?",
+    "options": [
+      "A. Lần thứ nhất (1st)",
+      "B. Lần thứ hai (2nd)",
+      "C. Lần thứ ba (3rd)",
+      "D. Lần thứ tư (4th)"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 145,
+    "question": "Cuộc cách mạng công nghiệp lần thứ tư (4th) diễn ra từ đầu thế kỷ XXI tập trung vào những công nghệ nền tảng nào?",
+    "options": [
+      "A. Động cơ hơi nước và dệt bông",
+      "B. Động cơ điện và dây chuyền sản xuất hàng loạt",
+      "C. Các hệ thống liên kết thế giới thực và ảo, internet vạn vật, trí tuệ nhân tạo",
+      "D. Khấu hao máy móc hữu hình ngành thủy sản"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 146,
+    "question": "Quá trình chuyển đổi căn bản các hoạt động từ sử dụng lao động thủ công là chính sang sử dụng phổ biến công nghệ, phương tiện tiên tiến hiện đại gọi là gì?",
+    "options": [
+      "A. Tích tụ và tập trung tư bản xã hội",
+      "B. Công nghiệp hóa, hiện đại hóa (CNH, HĐH)",
+      "C. Hoàn thiện thể chế kinh tế bên trong",
+      "D. Điều tiết quan hệ lợi ích kinh tế tự động"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 147,
+    "question": "Thực chất của quá trình công nghiệp hóa đối với mọi quốc gia muốn xây dựng nền sản xuất lớn hiện đại là gì?",
+    "options": [
+      "A. Quá trình xuất khẩu tư bản ra nước ngoài",
+      "B. Quá trình xây dựng cơ sở vật chất - kỹ thuật",
+      "C. Quá trình phân phối thu nhập theo nguồn vốn đóng góp",
+      "D. Quá trình thâu tóm và sáp nhập đa ngành M&A"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 148,
+    "question": "Khái niệm 'Hội nhập kinh tế quốc tế' được định nghĩa là quá trình một quốc gia làm gì?",
+    "options": [
+      "A. Cách ly hoàn toàn nền kinh tế nội địa với các biến động bên ngoài",
+      "B. Thực hiện gắn kết nền kinh tế của mình với nền kinh tế thế giới trên cơ sở chia sẻ lợi ích và tuân thủ chuẩn mực chung",
+      "C. Ép buộc các doanh nghiệp non trẻ phải phá sản cơ học",
+      "D. Áp đặt giá cả độc quyền lên thị trường khu vực"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 149,
+    "question": "Tiến trình liên kết kinh tế quốc tế diễn ra theo các cấp độ tuần tự nào từ thấp đến cao?",
+    "options": [
+      "A. MU → EU → CM → CU → FTA → PTA",
+      "B. Thỏa thuận thương mại ưu đãi (PTA) → Khu vực mậu dịch tự do (FTA) → Liên minh thuế quan (CU) → Thị trường chung (CM) → Liên minh kinh tế (EU) → Liên minh tiền tệ (MU)",
+      "C. Độc quyền cá biệt → Độc quyền nhóm → Độc quyền nhà nước → Quản trị toàn cầu",
+      "D. Bán lẻ thương nghiệp → Bán sỉ công nghiệp → Tái sản xuất xã hội"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 150,
+    "question": "Thách thức (tác động tiêu cực) lớn nhất của hội nhập kinh tế quốc tế đối với Việt Nam là gì?",
+    "options": [
+      "A. Mở rộng thị trường xuất nhập khẩu vĩ mô",
+      "B. Sức ép cạnh tranh quốc tế gay gắt khiến nhiều doanh nghiệp và ngành kinh tế non trẻ gặp khó khăn, phá sản",
+      "C. Thu hút mạnh mẽ nguồn vốn đầu tư trực tiếp nước ngoài FDI",
+      "D. Nâng cao chất lượng nguồn nhân lực chất lượng chám cao"
+    ],
+    "correctAnswer": 1
+  }
+]
