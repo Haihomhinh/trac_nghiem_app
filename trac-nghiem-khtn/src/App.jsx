@@ -245,7 +245,13 @@ export default function App() {
             
             <input type="text" placeholder="Tên đề thi (VD: Bài tập Sinh học lớp 7)" value={quizTitle} onChange={(e) => setQuizTitle(e.target.value)} style={inputStyle} />
             <input type="file" accept=".json" onChange={handleFileUpload} style={{...inputStyle, border: 'none', padding: '10px 0'}} />
-            <textarea placeholder="Hoặc dán nội dung JSON vào đây..." rows="6" value={jsonInput} onChange={(e) => setJsonInput(e.target.value)} style={{...inputStyle, resize: 'vertical'}} />
+            <textarea 
+              placeholder={`Ví dụ định dạng:\n[\n  {\n    "question": "Từ trường là vùng không gian bao quanh vật nào sau đây?",\n    "options": ["A. Một thanh gỗ", "B. Một viên nhựa", "C. Một nam châm hoặc dây dẫn mang dòng điện", "D. Một quả cầu thủy tinh"],\n    "correctAnswer": 2\n  }\n]`} 
+              rows="8" 
+              value={jsonInput} 
+              onChange={(e) => setJsonInput(e.target.value)} 
+              style={{...inputStyle, resize: 'vertical'}} 
+            />
             
             <button onClick={handleSaveQuiz} style={{ width: '100%', padding: '12px', backgroundColor: '#28a745', color: '#fff', border: 'none', borderRadius: '6px', fontSize: '18px', cursor: 'pointer', marginTop: '10px', fontFamily: 'inherit' }}>
               Lưu Đề Thi
